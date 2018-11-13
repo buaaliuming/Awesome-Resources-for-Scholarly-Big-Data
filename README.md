@@ -22,8 +22,12 @@ Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
 
 ## Table Extraction from PDF Articles
-pdftable:
+pdftable: extraction of table information from PDF-files based on pdf2html
 https://github.com/tfmorris/pdf2table
+http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
+
+Zanran:
+https://pdf.zanran.com/extract-table-from-pdf
 
 ## Keywords or Keyphrase Extraction 
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
