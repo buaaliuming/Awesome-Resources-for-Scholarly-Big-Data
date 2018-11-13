@@ -20,6 +20,11 @@ http://freecite.library.brown.edu/welcome
 Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
 
+## scholar influence analysis
+Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
+https://github.com/emeryberger/CSrankings
+http://csrankings.org/#/index?all
+
 ## Text annotation
 Brat : a web-based tool for text annotation
 
@@ -66,6 +71,14 @@ http://tangra.cs.yale.edu/newaan/
 
 ## CCL anthology
 http://www.cips-cl.org/anthology
+
+## Relational Classification Dataset
+This classification dataset contains 380 scientific publications from AAN manually classified into three research areas ("Machine Translation", "Dependency Parsing" and "Summarization"). 
+http://tangra.cs.yale.edu//homepage/downloads/aan_relational/
+
+## Publication Classification Dataset
+This classification dataset contains 383 scientific publications from AAN manually classified into 31 research areas using session information. The session information was compiled using the session information from ACL, COLING and EMNLP.
+http://tangra.cs.yale.edu//homepage/downloads/aan_session/
 
 ## ChestX-ray8
 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
