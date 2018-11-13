@@ -45,6 +45,7 @@ https://biendata.com/competition/scholar/
 ## SAVE-SD 2016-2018:WWW Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data 
 SAVE-SD 2016 http://cs.unibo.it/save-sd/2016/index.html
 SAVE-SD 2017 http://oro.open.ac.uk/53280/
+SAVE-SD 2018 https://save-sd.github.io/2018/index.html
 
 ## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
 
