@@ -202,6 +202,13 @@ Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank th
 
 https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks
 
+## TAC 2014 Biomedical Summarization Track
+Given: A set of Citing Papers (CPs) that all contain citations to a Reference Paper (RP). In each CP, the text spans (i.e., citances) have been identified that pertain to a particular citation to the RP.
+Task 1a: For each citance, identify the spans of text (cited text spans) in the RP that most accurately reflect the citance. These are of the granularity of a sentence fragment, a full sentence, or several consecutive sentences (no more than 5).
+Task 1b: For each cited text span, identify what facet of the paper it belongs to, from a predefined set of facets.
+Task 2: Finally, generate a structured summary of the RP and all of the community discussion of the paper represented in the citances. The length of the summary should not exceed 250 words. Task 2 is tentative.
+https://tac.nist.gov/2014/BiomedSumm/index.html
+
 ## KDD Cup 2013- Author-Paper Identification Challenge 
 Determine whether an author has written a given paper
 
