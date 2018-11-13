@@ -21,6 +21,9 @@ PDFFigures:Extracting Figures from Research Papers
 Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
 
+### deepfigures-open### :Figure extraction using deep neural nets
+https://github.com/allenai/deepfigures-open
+
 ## Table Extraction from PDF Articles
 pdftable: extraction of table information from PDF-files based on pdf2html
 https://github.com/tfmorris/pdf2table
