@@ -2,6 +2,8 @@
 
 Pick up scattered pearls———Tools, Resources, datasets and venues for scholarly big data
 
+Quit Start for the Mining of Scholarly Big Data
+
 # Tools
 ## Bibliographical Extraction Tool  
 ### GROBID :
@@ -170,6 +172,7 @@ This dataset includes a database of regulation relationships among genes and cor
 https://www.microsoft.com/en-us/download/details.aspx?id=54054
 
 ## CCL anthology
+中文计算机语言学会历年论文集
 http://www.cips-cl.org/anthology
 
 # Venues and Challenge with datasets
@@ -183,6 +186,9 @@ https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 http://alt.qcri.org/semeval2017/task10/
 
 ## Open Academic Data Challenge 2017 (开放学术精准画像大赛)
+Task 1: Extract a scholar’s profile information 
+Task 2: Predictthe scholar’s research interests labels
+Task 3: Predict the scholar’s future influence
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 https://biendata.com/competition/scholar/
 
