@@ -61,7 +61,7 @@ a web-based tool for text annotation
 http://brat.nlplab.org/introduction.html
 
 ### Chinese-Annotator
-中文标注工具
+Annotator for Chinese Text Corpus 中文标注工具
 https://github.com/deepwel/Chinese-Annotator
 
 ## Research Trends Visualization
