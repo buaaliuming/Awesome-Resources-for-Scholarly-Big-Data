@@ -9,7 +9,7 @@ GROBID : a machine learning library for extracting, parsing and re-structuring r
 http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
 
 ## Text annotation
-Brat : a web-based tool
+Brat : a web-based tool for text annotation
 
 http://brat.nlplab.org/introduction.html
 
