@@ -130,11 +130,13 @@ ACL Anthology Network,Here we have collected information regarding all of the pa
 http://clair.eecs.umich.edu/aan/index.php
 http://tangra.cs.yale.edu/newaan/
 
-## Citation networks: Arxiv High Energy Physics paper citation network and Citation network among US Patents
+## Citation networks:
+Arxiv High Energy Physics paper citation network and Citation network among US Patents
 nodes represent papers, edges represent citations
 https://snap.stanford.edu/data/#citnets
 
-## Collaboration networks: Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
+## Collaboration networks:
+Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
 https://snap.stanford.edu/data/#canets
 
 ## Relational Classification Dataset
@@ -151,6 +153,10 @@ https://cs.nyu.edu/~roweis/data.html
 ## ChestX-ray8
 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf
+
+## NCI-PID-PubMed Genomics Knowledge Base Completion Dataset
+This dataset includes a database of regulation relationships among genes and corresponding textual mentions of pairs of genes in PubMed article abstracts.
+https://www.microsoft.com/en-us/download/details.aspx?id=54054
 
 ## CCL anthology
 http://www.cips-cl.org/anthology
