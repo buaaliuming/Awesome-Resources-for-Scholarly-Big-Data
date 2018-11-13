@@ -15,6 +15,10 @@ http://brat.nlplab.org/introduction.html
 Neviewer：Analyse the evolution of research topics in a discipline based on co-word network analysis
 https://link.springer.com/article/10.1007/s11192-014-1347-y
 
+##  DatasetSearch
+Making it easier to discover datasets
+https://www.blog.google/products/search/making-it-easier-discover-datasets/
+
 # Datasets and Corpus
 ## PubMed
 PubMed comprises more than 28 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
@@ -30,6 +34,12 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-
 
 ## International Workshop on Mining Scientific Publications
 https://wosp.core.ac.uk/lrec2018/
+https://wosp.core.ac.uk/jcdl2017/
+https://wosp.core.ac.uk/jcdl2016/
+https://wosp.core.ac.uk/jcdl2015/
+http://project.core.ac.uk/dl2014/
+http://project.core.ac.uk/jcdl2013/
+http://project.core.ac.uk/jcdl2012/
 
 ## BIG 2016 CUP:(WWW 2016)
 Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
