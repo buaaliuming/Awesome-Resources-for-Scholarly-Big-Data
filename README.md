@@ -40,8 +40,8 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-
  https://ornlcda.github.io/SWM2017/program.html
 
 ## International Workshop on Mining Scientific Publications
-
 https://wosp.core.ac.uk/lrec2018/ 
+
 https://wosp.core.ac.uk/jcdl2017/
 https://wosp.core.ac.uk/jcdl2016/
 https://wosp.core.ac.uk/jcdl2015/
