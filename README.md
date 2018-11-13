@@ -45,6 +45,17 @@ https://pdf.zanran.com/extract-table-from-pdf
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 http://community.nzdl.org/kea/
 
+## Medical NLP Packages
+### Illinois Medical NER
+This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
+http://cogcomp.org/page/software_view/MedNER
+
+### Illinois Medical Coreference
+http://cogcomp.org/page/software_view/MedCoref
+
+### Illinois Medical Drug Abuse Detector
+http://cogcomp.org/page/software_view/MedSHARPS
+
 ## Scholar Influence Analysis
 Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
 https://github.com/emeryberger/CSrankings
