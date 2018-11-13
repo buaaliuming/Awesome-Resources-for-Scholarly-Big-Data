@@ -54,7 +54,10 @@ Microsoft provides the latest Microsoft Academic Search data set and an online g
 
 http://big2016.org/big-2016-cup/
 
-## KDD Cup 2016- Author-Paper Identification Challenge 
+## KDD Cup 2016- Whose papers are accepted the most: towards measuring the impact of research institutions
+Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank the importance of institutions based on predicting how many of their papers will be accepted.
+
+https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks
 
 ## KDD Cup 2013- Author-Paper Identification Challenge 
 Determine whether an author has written a given paper
