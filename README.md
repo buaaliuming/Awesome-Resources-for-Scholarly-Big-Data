@@ -189,9 +189,9 @@ SAVE-SD 2018 https://save-sd.github.io/2018/index.html
 https://ornlcda.github.io/SWM2017/program.html
 
 ## International Workshop on Mining Scientific Publications 2012-2018
-https://wosp.core.ac.uk/lrec2018/ 
+https://wosp.core.ac.uk/lrec2018/
 
- https://wosp.core.ac.uk/jcdl2017/
+https://wosp.core.ac.uk/jcdl2017/
 https://wosp.core.ac.uk/jcdl2016/
 https://wosp.core.ac.uk/jcdl2015/
 http://project.core.ac.uk/dl2014/
@@ -203,10 +203,20 @@ Microsoft provides the latest Microsoft Academic Search data set and an online g
 
 http://big2016.org/big-2016-cup/
 
-## KDD Cup 2016- Whose papers are accepted the most: towards measuring the impact of research institutions
-Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank the importance of institutions based on predicting how many of their papers will be accepted.
+## TAC 2018 TAC 2018 Drug-Drug Interaction Extraction from Drug Labels
+The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in SPLs. A set of 20 gold-standard SPLs annotated with drug-drug interactions will be provided to participants. An additional set of 180 SPLs annotated in slightly different format is available for training. Participants will be evaluated by their performance on a held-out set of 50 labeled SPLs.
 
-https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks
+https://bionlp.nlm.nih.gov/tac2018druginteractions/
+
+## TAC 2017 Adverse Drug Reaction Extraction from Drug Labels
+One of the major aspects of drug information are safety concerns in the form of Adverse Drug Reactions (ADRs). In this evaluation, we are focusing on extraction of ADRs from the prescription drug labels.
+Task 1: Extract AdverseReactions and related mentions (Severity, Factor, DrugClass, Negation, Animal). This is similar to many NLP Named Entity Recognition (NER) evaluations.
+Task 2: Identify the relations between AdverseReactions and related mentions (i.e., Negated, Hypothetical, and Effect). This is similar to many NLP relation identification evaluations.
+Task 3: Identify the positive AdverseReaction mention names in the labels. For the purposes of this task, positive will be defined as the caseless strings of all the AdverseReactions that have not been negated and are not related by a Hypothetical relation to a DrugClass or Animal. Note that this means Factors related via a Hypothetical relation are considered positive (e.g., "[unknown risk]Factor of [stroke]AdverseReaction") for the purposes of this task. The result of this task will be a list of unique strings corresponding to the positive ADRs as they were written in the label.
+Task 4: Provide MedDRA PT(s) and LLT(s) for each positive AdverseReaction (occassionally, two or more PTs are necessary to fully describe the reaction). For participants approaching the tasks sequentially, this can be viewed as normalization of the terms extracted in Task 3 to MedDRA LLTs/PTs. Because MedDRA is not publicly available, and contains several versions, a standard version of MedDRA v18.1 will be provided to the participants. Other resources such as the UMLS Terminology Services may be used to aid with the normalization process.
+
+https://bionlp.nlm.nih.gov/tac2017adversereactions/
+
 
 ## TAC 2014 Biomedical Summarization Track
 Given: A set of Citing Papers (CPs) that all contain citations to a Reference Paper (RP). In each CP, the text spans (i.e., citances) have been identified that pertain to a particular citation to the RP.
@@ -214,6 +224,11 @@ Task 1a: For each citance, identify the spans of text (cited text spans) in the 
 Task 1b: For each cited text span, identify what facet of the paper it belongs to, from a predefined set of facets.
 Task 2: Finally, generate a structured summary of the RP and all of the community discussion of the paper represented in the citances. The length of the summary should not exceed 250 words. Task 2 is tentative.
 https://tac.nist.gov/2014/BiomedSumm/index.html
+
+## KDD Cup 2016- Whose papers are accepted the most: towards measuring the impact of research institutions
+Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank the importance of institutions based on predicting how many of their papers will be accepted.
+
+https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks
 
 ## KDD Cup 2013- Author-Paper Identification Challenge 
 Determine whether an author has written a given paper
