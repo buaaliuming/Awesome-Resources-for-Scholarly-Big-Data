@@ -20,7 +20,7 @@ http://freecite.library.brown.edu/welcome
 Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
 
-## Keyphrase Extraction 
+## Keywords or Keyphrase Extraction 
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 http://community.nzdl.org/kea/
 
@@ -125,6 +125,9 @@ http://tangra.cs.yale.edu//homepage/downloads/aan_relational/
 ## Publication Classification Dataset
 This classification dataset contains 383 scientific publications from AAN manually classified into 31 research areas using session information. The session information was compiled using the session information from ACL, COLING and EMNLP.
 http://tangra.cs.yale.edu//homepage/downloads/aan_session/
+
+## NIPS Conference datasets
+https://cs.nyu.edu/~roweis/data.html
 
 ## ChestX-ray8
 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
