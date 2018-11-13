@@ -5,7 +5,7 @@ Pick up scattered pearls———Tools, Resources, datasets and venues for schol
 Quit Start for the Mining of Scholarly Big Data
 
 # Tools
-## Bibliographical Extraction Tool  
+## Bibliographical Extraction 
 ### GROBID :
 a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured TEI-encoded documents with a particular focus on technical and scientific publications
 http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
@@ -54,7 +54,7 @@ http://csrankings.org/#/index?all
 A simple scholar gender predictor.
 https://github.com/xgeric/gender
 
-## Text annotation
+## Text Annotation
 ### Brat :
 a web-based tool for text annotation
 
