@@ -20,6 +20,10 @@ https://link.springer.com/article/10.1007/s11192-014-1347-y
 PubMed comprises more than 28 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
 https://www.ncbi.nlm.nih.gov/pubmed/
 
+## ChestX-ray8
+Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf
+
 # Venues and Challenge with datasets
 ## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
  https://ornlcda.github.io/SWM2017/program.html
