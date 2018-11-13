@@ -30,11 +30,12 @@ Figure extraction using deep neural nets
 https://github.com/allenai/deepfigures-open
 
 ## Table Extraction from PDF Articles
-pdftable: extraction of table information from PDF-files based on pdf2html
+### pdftable:
+extraction of table information from PDF-files based on pdf2html
 https://github.com/tfmorris/pdf2table
 http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 
-Zanran:
+### Zanran:
 https://pdf.zanran.com/extract-table-from-pdf
 
 ## Keywords or Keyphrase Extraction 
@@ -57,7 +58,7 @@ a web-based tool for text annotation
 
 http://brat.nlplab.org/introduction.html
 
-## Visualization
+## Research Trends Visualization
 ### Neviewer：
 Analyse the evolution of research topics in a discipline based on co-word network analysis
 
