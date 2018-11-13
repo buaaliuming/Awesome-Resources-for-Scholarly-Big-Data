@@ -18,5 +18,8 @@ https://link.springer.com/article/10.1007/s11192-014-1347-y
 ...
 
 # Venues
- WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
+## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
  https://ornlcda.github.io/SWM2017/program.html
+
+## International Workshop on Mining Scientific Publications
+https://wosp.core.ac.uk/lrec2018/
