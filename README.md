@@ -38,6 +38,10 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-
 ## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 
+## 2017 开放学术精准画像大赛
+根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
+https://biendata.com/competition/scholar/
+
 ## SAVE-SD 2016: Second Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data （WWWW 2016）
 
 
