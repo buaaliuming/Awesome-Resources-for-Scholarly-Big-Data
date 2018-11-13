@@ -126,7 +126,7 @@ https://www.openacademic.ai/oag/
 ## Arxiv Bluk Corpus
 https://arxiv.org/help/bulk_data
 
-## Citeseer
+## Citeseer data and metadata
 CiteSeerx data and metadata are available for others to use. Data available includes CiteSeerx metadata, databases, data sets of pdf files and text of pdf files.
 http://csxstatic.ist.psu.edu/downloads/data
 
@@ -142,13 +142,13 @@ ACL Anthology Network,Here we have collected information regarding all of the pa
 http://clair.eecs.umich.edu/aan/index.php
 http://tangra.cs.yale.edu/newaan/
 
-## Citation networks:
+## Citation networks (for community detection):
 ### Arxiv High Energy Physics paper citation network and Citation network among US Patents
 
 nodes represent papers, edges represent citations
 https://snap.stanford.edu/data/#citnets
 
-## Collaboration networks:
+## Collaboration networks (for community detection):
 ### Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
 https://snap.stanford.edu/data/#canets
 
