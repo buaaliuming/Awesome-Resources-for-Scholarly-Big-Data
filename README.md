@@ -60,6 +60,10 @@ a web-based tool for text annotation
 
 http://brat.nlplab.org/introduction.html
 
+### Chinese-Annotator
+中文标注工具
+https://github.com/deepwel/Chinese-Annotator
+
 ## Research Trends Visualization
 ### Neviewer：
 Analyse the evolution of research topics in a discipline based on co-word network analysis
@@ -70,7 +74,7 @@ https://link.springer.com/article/10.1007/s11192-014-1347-y
 Visualizing Patterns and Trends in Scientific Literature
 http://cluster.cis.drexel.edu/~cchen/citespace/
 
-##  DatasetSearch
+##  Dataset Search
 Making it easier to discover datasets
 
 https://www.blog.google/products/search/making-it-easier-discover-datasets/
@@ -185,6 +189,10 @@ https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 ## SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications
 http://alt.qcri.org/semeval2017/task10/
 
+## SemEval 2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles 
+http://semeval2.fbk.eu/semeval2.php?location=tasks&area=Information%20Extraction
+https://github.com/snkim/AutomaticKeyphraseExtraction
+
 ## Open Academic Data Challenge 2017 (开放学术精准画像大赛)
 Task 1: Extract a scholar’s profile information 
 Task 2: Predictthe scholar’s research interests labels
@@ -192,7 +200,7 @@ Task 3: Predict the scholar’s future influence
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 https://biendata.com/competition/scholar/
 
-## AAAI workshop 2015,2016——Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop co-located with 
+## AAAI workshop 2015,2016——Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop
 http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html
 https://www.aaai.org/Workshops/ws15workshops.php
 
