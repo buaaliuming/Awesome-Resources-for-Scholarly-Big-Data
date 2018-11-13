@@ -42,8 +42,9 @@ https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 https://biendata.com/competition/scholar/
 
-## SAVE-SD 2016: Second Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data （WWWW 2016）
-
+## SAVE-SD 2016-2018:WWW Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data 
+SAVE-SD 2016 http://cs.unibo.it/save-sd/2016/index.html
+SAVE-SD 2017 http://oro.open.ac.uk/53280/
 
 ## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
 
