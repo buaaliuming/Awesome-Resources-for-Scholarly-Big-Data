@@ -1,5 +1,6 @@
 # Resources-for-Scholarly-Big-Data
-Tools， datasets and venues for scholarly big data——Pick up scattered pearls
+
+Pick up scattered pearls———Tools, Resources, datasets and venues for scholarly big data
 
 # Tools
 ## Bibliographical Extraction Tool  
