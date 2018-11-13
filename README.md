@@ -19,7 +19,7 @@ https://link.springer.com/article/10.1007/s11192-014-1347-y
 PubMed comprises more than 28 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
 https://www.ncbi.nlm.nih.gov/pubmed/
 
-# Venues with datasets
+# Venues and Challenge with datasets
 ## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
  https://ornlcda.github.io/SWM2017/program.html
 
@@ -28,6 +28,10 @@ https://wosp.core.ac.uk/lrec2018/
 
 ## KDD Cup 2013 - Author-Paper Identification Challenge 
 https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge
+
+## KDD Cup 2008- Detection of Breast Cancer
+early detection of breast cancer from X-ray images of the breast
+https://www.kdd.org/kdd-cup/view/kdd-cup-2008
 
 ## KDD Cup 2001
 http://pages.cs.wisc.edu/~dpage/kddcup2001/
