@@ -113,10 +113,17 @@ https://dblp.uni-trier.de/xml/
 A Digital Archive of Research Papers in Computational Linguistics,The ACL Anthology currently hosts over 44,000 papers on the study of computational linguistics and natural language processing
 http://aclweb.org/anthology/
 
-## AAN 
+## AAN: ACL Anthology Network
 ACL Anthology Network,Here we have collected information regarding all of the papers included in the many ACL venues. From those papers, we have created several networks, including paper citation, author citation, and author collaboration. 
 http://clair.eecs.umich.edu/aan/index.php
 http://tangra.cs.yale.edu/newaan/
+
+## Citation networks: Arxiv High Energy Physics paper citation network and Citation network among US Patents
+nodes represent papers, edges represent citations
+https://snap.stanford.edu/data/#citnets
+
+## Collaboration networks: Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
+https://snap.stanford.edu/data/#canets
 
 ## Relational Classification Dataset
 This classification dataset contains 380 scientific publications from AAN manually classified into three research areas ("Machine Translation", "Dependency Parsing" and "Summarization"). 
@@ -126,7 +133,7 @@ http://tangra.cs.yale.edu//homepage/downloads/aan_relational/
 This classification dataset contains 383 scientific publications from AAN manually classified into 31 research areas using session information. The session information was compiled using the session information from ACL, COLING and EMNLP.
 http://tangra.cs.yale.edu//homepage/downloads/aan_session/
 
-## NIPS Conference datasets
+## NIPS Conference dataset
 https://cs.nyu.edu/~roweis/data.html
 
 ## ChestX-ray8
@@ -137,6 +144,9 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-
 http://www.cips-cl.org/anthology
 
 # Venues and Challenge with datasets
+## Joint Conference on Digital Libraries JCDL 2018 
+https://2018.jcdl.org/accepted_papers
+
 ## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 
