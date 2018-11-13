@@ -38,7 +38,7 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-
 ## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 
-## 2017 开放学术精准画像大赛
+## Open Academic Data Challenge 2017 (开放学术精准画像大赛)
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 https://biendata.com/competition/scholar/
 
@@ -52,7 +52,7 @@ https://ornlcda.github.io/SWM2017/program.html
 ## International Workshop on Mining Scientific Publications 2012-2018
 https://wosp.core.ac.uk/lrec2018/ 
 
-https://wosp.core.ac.uk/jcdl2017/
+ https://wosp.core.ac.uk/jcdl2017/
 https://wosp.core.ac.uk/jcdl2016/
 https://wosp.core.ac.uk/jcdl2015/
 http://project.core.ac.uk/dl2014/
