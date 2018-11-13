@@ -26,12 +26,17 @@ https://www.ncbi.nlm.nih.gov/pubmed/
 ## International Workshop on Mining Scientific Publications
 https://wosp.core.ac.uk/lrec2018/
 
-## KDD Cup 2013 - Author-Paper Identification Challenge 
+## BIG 2016 CUP:(WWW 2016)
+Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
+http://big2016.org/big-2016-cup/
+
+## KDD Cup 2013- Author-Paper Identification Challenge 
 https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge
 
 ## KDD Cup 2008- Detection of Breast Cancer
 early detection of breast cancer from X-ray images of the breast
 https://www.kdd.org/kdd-cup/view/kdd-cup-2008
 
-## KDD Cup 2001
+## KDD Cup 2001- Mining Biological Databases 
+KDD Cup 2001 was focused on data from genomics and drug design. Sufficient (yet concise) information was provided so that detailed domain knowledge was not a requirement for entry. A total of 136 groups participated to produce a total of 200 submitted predictions over the 3 tasks: 114 for Thrombin, 41 for Function, and 45 for Localization.
 http://pages.cs.wisc.edu/~dpage/kddcup2001/
