@@ -194,6 +194,10 @@ http://www.cips-cl.org/anthology
 ## Joint Conference on Digital Libraries JCDL 2018 
 https://2018.jcdl.org/accepted_papers
 
+## BioNLP 2018
+Biomedical Natural Language Processing
+http://aclweb.org/anthology/W18-2300
+
 ## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 
