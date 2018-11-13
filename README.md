@@ -13,6 +13,9 @@ http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230
 ParsCit : ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
 https://github.com/knmnyn/ParsCit/blob/master/USAGE
 
+FreeCite: FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
+http://freecite.library.brown.edu/welcome
+
 ## PDFFigures:Extracting Figures from Research Papers
 Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
@@ -51,6 +54,10 @@ https://wsdmcupchallenge.azurewebsites.net/
 
 ## Arxiv Bluk Corpus
 https://arxiv.org/help/bulk_data
+
+## ACL Anthology
+A Digital Archive of Research Papers in Computational Linguistics,The ACL Anthology currently hosts over 44,000 papers on the study of computational linguistics and natural language processing
+http://aclweb.org/anthology/
 
 ## CCL anthology
 http://www.cips-cl.org/anthology
