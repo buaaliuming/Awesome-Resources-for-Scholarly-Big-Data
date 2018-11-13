@@ -25,3 +25,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/
 
 ## International Workshop on Mining Scientific Publications
 https://wosp.core.ac.uk/lrec2018/
+
+## KDD Cup 2001
+http://pages.cs.wisc.edu/~dpage/kddcup2001/
