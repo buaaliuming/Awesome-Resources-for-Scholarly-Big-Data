@@ -21,7 +21,7 @@ PDFFigures:Extracting Figures from Research Papers
 Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
 
-### deepfigures-open### :Figure extraction using deep neural nets
+### deepfigures-open:Figure extraction using deep neural nets
 https://github.com/allenai/deepfigures-open
 
 ## Table Extraction from PDF Articles
@@ -33,7 +33,7 @@ Zanran:
 https://pdf.zanran.com/extract-table-from-pdf
 
 ## Keywords or Keyphrase Extraction 
-Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
+KEA: Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 http://community.nzdl.org/kea/
 
 ## Scholar Influence Analysis
