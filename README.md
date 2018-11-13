@@ -16,9 +16,14 @@ https://github.com/knmnyn/ParsCit/blob/master/USAGE
 FreeCite: FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
 http://freecite.library.brown.edu/welcome
 
-## PDFFigures:Extracting Figures from Research Papers
+## Figure Extraction from PDF Articles
+PDFFigures:Extracting Figures from Research Papers
 Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
+
+## Table Extraction from PDF Articles
+pdftable:
+https://github.com/tfmorris/pdf2table
 
 ## Keywords or Keyphrase Extraction 
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
