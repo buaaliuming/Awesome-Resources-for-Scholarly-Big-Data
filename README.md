@@ -32,7 +32,7 @@ Figure extraction using deep neural nets
 https://github.com/allenai/deepfigures-open
 
 ## Table Extraction from PDF Articles
-### pdftable:
+### pdf2table:
 extraction of table information from PDF-files based on pdf2html
 https://github.com/tfmorris/pdf2table
 http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
