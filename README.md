@@ -4,24 +4,29 @@ Pick up scattered pearls———Tools, Resources, datasets and venues for schol
 
 # Tools
 ## Bibliographical Extraction Tool  
-GROBID : a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured TEI-encoded documents with a particular focus on technical and scientific publications
+### GROBID :
+a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured TEI-encoded documents with a particular focus on technical and scientific publications
 http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
 
-CERMINE:Content ExtRactor and MINEr
+### CERMINE:
+Content ExtRactor and MINEr
 http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230
 
-ParsCit : ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
+### ParsCit : 
+ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
 https://github.com/knmnyn/ParsCit/blob/master/USAGE
 
-FreeCite: FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
+### FreeCite: 
+FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
 http://freecite.library.brown.edu/welcome
 
 ## Figure Extraction from PDF Articles
-PDFFigures:Extracting Figures from Research Papers
-Mining Figures from Research Papers
+### PDFFigures:
+Extracting Figures from Research Papers,Mining Figures from Research Papers
 http://pdffigures2.allenai.org/
 
-### deepfigures-open:Figure extraction using deep neural nets
+### deepfigures-open:
+Figure extraction using deep neural nets
 https://github.com/allenai/deepfigures-open
 
 ## Table Extraction from PDF Articles
@@ -33,7 +38,8 @@ Zanran:
 https://pdf.zanran.com/extract-table-from-pdf
 
 ## Keywords or Keyphrase Extraction 
-KEA: Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
+### KEA:
+Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 http://community.nzdl.org/kea/
 
 ## Scholar Influence Analysis
@@ -46,16 +52,19 @@ A simple scholar gender predictor.
 https://github.com/xgeric/gender
 
 ## Text annotation
-Brat : a web-based tool for text annotation
+### Brat :
+a web-based tool for text annotation
 
 http://brat.nlplab.org/introduction.html
 
 ## Visualization
-Neviewer：Analyse the evolution of research topics in a discipline based on co-word network analysis
+### Neviewer：
+Analyse the evolution of research topics in a discipline based on co-word network analysis
 
 https://link.springer.com/article/10.1007/s11192-014-1347-y
 
-CiteSpace: Visualizing Patterns and Trends in Scientific Literature
+### CiteSpace: 
+Visualizing Patterns and Trends in Scientific Literature
 http://cluster.cis.drexel.edu/~cchen/citespace/
 
 ##  DatasetSearch
@@ -131,12 +140,13 @@ http://clair.eecs.umich.edu/aan/index.php
 http://tangra.cs.yale.edu/newaan/
 
 ## Citation networks:
-Arxiv High Energy Physics paper citation network and Citation network among US Patents
+### Arxiv High Energy Physics paper citation network and Citation network among US Patents
+
 nodes represent papers, edges represent citations
 https://snap.stanford.edu/data/#citnets
 
 ## Collaboration networks:
-Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
+### Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
 https://snap.stanford.edu/data/#canets
 
 ## Relational Classification Dataset
@@ -203,7 +213,7 @@ Microsoft provides the latest Microsoft Academic Search data set and an online g
 
 http://big2016.org/big-2016-cup/
 
-## TAC 2018 TAC 2018 Drug-Drug Interaction Extraction from Drug Labels
+## TAC 2018 Drug-Drug Interaction Extraction from Drug Labels
 The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in SPLs. A set of 20 gold-standard SPLs annotated with drug-drug interactions will be provided to participants. An additional set of 180 SPLs annotated in slightly different format is available for training. Participants will be evaluated by their performance on a held-out set of 50 labeled SPLs.
 
 https://bionlp.nlm.nih.gov/tac2018druginteractions/
