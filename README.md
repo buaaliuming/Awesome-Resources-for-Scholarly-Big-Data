@@ -35,11 +35,17 @@ Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classifi
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf
 
 # Venues and Challenge with datasets
+## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
+https://competitions.codalab.org/competitions/17422#learn_the_details-overview
+
+## SAVE-SD 2016: Second Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data （WWWW 2016）
+
+
 ## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
 
- https://ornlcda.github.io/SWM2017/program.html
+https://ornlcda.github.io/SWM2017/program.html
 
-## International Workshop on Mining Scientific Publications
+## International Workshop on Mining Scientific Publications 2012-2018
 https://wosp.core.ac.uk/lrec2018/ 
 
 https://wosp.core.ac.uk/jcdl2017/
