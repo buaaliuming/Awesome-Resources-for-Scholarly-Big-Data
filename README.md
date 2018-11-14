@@ -56,15 +56,6 @@ http://cogcomp.org/page/software_view/MedCoref
 ### Illinois Medical Drug Abuse Detector
 http://cogcomp.org/page/software_view/MedSHARPS
 
-## Scholar Influence Analysis
-Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
-https://github.com/emeryberger/CSrankings
-http://csrankings.org/#/index?all
-
-## Scholar Gender Prediction
-A simple scholar gender predictor.
-https://github.com/xgeric/gender
-
 ## Text Annotation
 ### Brat :
 a web-based tool for text annotation
@@ -74,6 +65,19 @@ http://brat.nlplab.org/introduction.html
 ### Chinese-Annotator
 Annotator for Chinese Text Corpus 中文标注工具
 https://github.com/deepwel/Chinese-Annotator
+
+## GATE 
+ GATE includes components for diverse language processing tasks, e.g. parsers, morphology, tagging, Information Retrieval tools, Information Extraction components for various languages, and many others. GATE Developer and Embedded are supplied with an Information Extraction system (ANNIE) which has been adapted and evaluated very widely (numerous industrial systems, research systems evaluated in MUC, TREC, ACE, DUC, Pascal, NTCIR, etc.). ANNIE is often used to create RDF or OWL (metadata) for unstructured conten
+https://gate.ac.uk/
+
+## Scholar Influence Analysis
+Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
+https://github.com/emeryberger/CSrankings
+http://csrankings.org/#/index?all
+
+## Scholar Gender Prediction
+A simple scholar gender predictor.
+https://github.com/xgeric/gender
 
 ## Research Trends Visualization
 ### Neviewer：
@@ -111,6 +115,9 @@ https://www.semanticscholar.org/
 
 Google Schoolar
 https://scholar.google.com.hk/
+
+Arxiv
+https://arxiv.org/
 
 # Datasets and Corpus
 ## PubMed
