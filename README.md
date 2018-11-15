@@ -45,6 +45,15 @@ https://pdf.zanran.com/extract-table-from-pdf
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 http://community.nzdl.org/kea/
 
+## Plain Text Extraction
+### PDFBox 
+Extract Unicode text from PDF files.
+https://pdfbox.apache.org/
+
+### Apache POI - the Java API for Microsoft Documents
+You can read and write MS Excel, PPT and Word files using Java API.The Apache POI Project's mission is to create and maintain Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2).
+http://poi.apache.org/
+
 ## Medical NLP Packages
 ### Illinois Medical NER
 This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
