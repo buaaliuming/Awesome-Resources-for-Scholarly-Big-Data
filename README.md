@@ -2,7 +2,7 @@
 
 Pick up scattered pearls———Tools, Resources, datasets and venues for scholarly big data
 
-Quit Start for the Mining of Scholarly Big Data
+Quick Start for the Mining of Scholarly Big Data
 
 # Tools
 ## Bibliographical Extraction 
