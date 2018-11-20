@@ -143,6 +143,11 @@ https://www.springernature.com/gp/researchers/scigraph
 ## Automatic Article Commenting: the Task and Dataset 
 https://arxiv.org/pdf/1805.03668.pdf
 
+## PeerRead （code and dataset for  peer reviews dataset）
+PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
+
+https://github.com/allenai/PeerRead
+
 ## Academic Vocabulary Lists
 https://www.academicvocabulary.info/
 
