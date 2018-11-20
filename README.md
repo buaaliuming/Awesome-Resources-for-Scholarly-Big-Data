@@ -218,7 +218,8 @@ This classification dataset contains 383 scientific publications from AAN manual
 http://tangra.cs.yale.edu//homepage/downloads/aan_session/
 
 ## DSAP-document semantic similarity evaluation
-https://github.com/buaaliuming/DSAP-document-semantics-for-academic-papers
+https://github.com/buaaliuming/DSAP-document-semantics-for-academic-papers/tree/buaaliuming-annotation
+
 
 ## NIPS Conference dataset
 https://cs.nyu.edu/~roweis/data.html
