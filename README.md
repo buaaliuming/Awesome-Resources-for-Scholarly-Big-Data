@@ -54,10 +54,14 @@ https://pdfbox.apache.org/
 You can read and write MS Excel, PPT and Word files using Java API.The Apache POI Project's mission is to create and maintain Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2).
 http://poi.apache.org/
 
-## Automatic Academic Paper Rating
+## Academic Article Evaluation
+### Automatic Academic Paper Rating
 基于论文的 LATEX 源文件和元信息自动地对学术论文进行评分
 https://github.com/lancopku/AAPR
 
+## PeerRead
+Automatic PeerReview: Predict the accept/reject decisions in top-tier venues
+https://github.com/allenai/PeerRead
 
 ## Scholar Influence Analysis
 Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
