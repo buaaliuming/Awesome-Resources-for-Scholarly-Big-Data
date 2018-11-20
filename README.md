@@ -45,6 +45,12 @@ https://pdf.zanran.com/extract-table-from-pdf
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 http://community.nzdl.org/kea/
 
+## Science-Parse
+Science Parse parses scientific papers (in PDF form) and returns them in structured form.
+It supports these fields: Title, Authors, Abstract, Sections (each with heading and body text), Bibliography, each with Title, Authors
+Venue, Year, Mentions, i.e., places in the paper where bibliography entries are mentioned, In JSON format.
+https://github.com/allenai/science-parse
+
 ## Plain Text Extraction
 ### PDFBox 
 Extract Unicode text from PDF files.
