@@ -267,7 +267,7 @@ http://project.core.ac.uk/dl2014/
 http://project.core.ac.uk/jcdl2013/
 http://project.core.ac.uk/jcdl2012/
 
-## BIG 2016 CUP:(WWW 2016)
+## WWW 2016 : BIG 2016 CUP
 Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
 
 http://big2016.org/big-2016-cup/
@@ -318,7 +318,7 @@ https://www.kdd.org/kdd-cup/view/kdd-cup-2006
 The goal in Particle Physics task is to learn a classification rule that differentiates between two types of particles generated in high energy collider experiments. The goal of Protein Homology Prediction is to predict which proteins are homologous to a native sequence
 https://www.kdd.org/kdd-cup/view/kdd-cup-2004/Tasks
 
-## KDD Cup 2003- Network mining and usage log analysis: Citation PredictionCitation Prediction and Download Estimation
+## KDD Cup 2003- Network mining and usage log analysis: Citation Prediction and Download Estimation
 The goal of  Citation Prediction is to predict changes in the number of citations to individual papers over time.The goal of Download Estimation task is to estimate the number of downloads that a paper receives in its first two months in the arXiv.
 https://www.kdd.org/kdd-cup/view/kdd-cup-2003/Tasks
 
