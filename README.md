@@ -6,6 +6,10 @@ Quick Start for the Mining of Scholarly Big Data
 
 # Tools
 ## Bibliographical Extraction 
+### ParsCit : 
+ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
+https://github.com/knmnyn/ParsCit/blob/master/USAGE
+
 ### GROBID :
 a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured TEI-encoded documents with a particular focus on technical and scientific publications
 http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
@@ -13,10 +17,6 @@ http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
 ### CERMINE:
 Content ExtRactor and MINEr
 http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230
-
-### ParsCit : 
-ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
-https://github.com/knmnyn/ParsCit/blob/master/USAGE
 
 ### FreeCite: 
 FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
