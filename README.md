@@ -56,7 +56,7 @@ http://poi.apache.org/
 
 ## Academic Article Evaluation
 ### Automatic Academic Paper Rating
-基于论文的 LATEX 源文件和元信息自动地对学术论文进行评分
+Rating articles based on LATEX source files and academic metedata
 https://github.com/lancopku/AAPR
 
 ## PeerRead
