@@ -148,6 +148,9 @@ https://www.springernature.com/gp/researchers/scigraph
 ## Automatic Article Commenting: the Task and Dataset 
 https://arxiv.org/pdf/1805.03668.pdf
 
+## Automatic Academic Paper Rating (Dataset)
+https://drive.google.com/file/d/1ttKdXUjaFi3eS6zeHITuZjsTGrh6M4ij/view
+
 ## PeerRead （code and dataset for predict whether you paper will be accepted by top-tier venues）
 PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
 
@@ -220,7 +223,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54054
 http://www.cips-cl.org/anthology
 
 # Venues and Challenge with datasets
-## Joint Conference on Digital Libraries JCDL 2018 
+## JCDL 2018 : Joint Conference on Digital Libraries
 https://2018.jcdl.org/accepted_papers
 
 ## BioNLP 2018
@@ -244,16 +247,16 @@ Task 3: Predict the scholar’s future influence
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 https://biendata.com/competition/scholar/
 
-## AAAI workshop 2015,2016——Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop
+## AAAI 2015,2016: Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop
 http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html
 https://www.aaai.org/Workshops/ws15workshops.php
 
-## SAVE-SD 2016-2018:WWW Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data 
+## WWW 2016-2018: SAVE-SD: Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data 
 SAVE-SD 2016 http://cs.unibo.it/save-sd/2016/index.html
 SAVE-SD 2017 http://oro.open.ac.uk/53280/
 SAVE-SD 2018 https://save-sd.github.io/2018/index.html
 
-## WSDM 2017 Workshop on Scholarly Web Mining (SWM 2017) 
+## WSDM 2017: Workshop on Scholarly Web Mining (SWM 2017) 
 
 https://ornlcda.github.io/SWM2017/program.html
 
