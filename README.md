@@ -156,6 +156,7 @@ Linked Open Data offering which aggregates data sources from Springer Nature and
 https://www.springernature.com/gp/researchers/scigraph
 
 ## Automatic Article Commenting: the Task and Dataset 
+The dataset is available on http://ai.tencent.com/upload/PapersUploads/article_commenting.tgz
 https://arxiv.org/pdf/1805.03668.pdf
 
 ## Automatic Academic Paper Rating (Dataset)
@@ -163,7 +164,6 @@ https://drive.google.com/file/d/1ttKdXUjaFi3eS6zeHITuZjsTGrh6M4ij/view
 
 ## PeerRead （code and dataset for predict whether you paper will be accepted by top-tier venues）
 PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
-
 https://github.com/allenai/PeerRead
 
 ## Academic Vocabulary Lists
@@ -216,6 +216,9 @@ http://tangra.cs.yale.edu//homepage/downloads/aan_relational/
 ## Publication Classification Dataset
 This classification dataset contains 383 scientific publications from AAN manually classified into 31 research areas using session information. The session information was compiled using the session information from ACL, COLING and EMNLP.
 http://tangra.cs.yale.edu//homepage/downloads/aan_session/
+
+## DSAP-document semantic similarity evaluation
+https://github.com/buaaliuming/DSAP-document-semantics-for-academic-papers
 
 ## NIPS Conference dataset
 https://cs.nyu.edu/~roweis/data.html
