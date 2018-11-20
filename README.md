@@ -54,30 +54,10 @@ https://pdfbox.apache.org/
 You can read and write MS Excel, PPT and Word files using Java API.The Apache POI Project's mission is to create and maintain Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2).
 http://poi.apache.org/
 
-## Medical NLP Packages
-### Illinois Medical NER
-This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
-http://cogcomp.org/page/software_view/MedNER
+## Automatic Academic Paper Rating
+基于论文的 LATEX 源文件和元信息自动地对学术论文进行评分
+https://github.com/lancopku/AAPR
 
-### Illinois Medical Coreference
-http://cogcomp.org/page/software_view/MedCoref
-
-### Illinois Medical Drug Abuse Detector
-http://cogcomp.org/page/software_view/MedSHARPS
-
-## Text Annotation
-### Brat :
-a web-based tool for text annotation
-
-http://brat.nlplab.org/introduction.html
-
-### Chinese-Annotator
-Annotator for Chinese Text Corpus 中文标注工具
-https://github.com/deepwel/Chinese-Annotator
-
-## GATE 
- GATE includes components for diverse language processing tasks, e.g. parsers, morphology, tagging, Information Retrieval tools, Information Extraction components for various languages, and many others. GATE Developer and Embedded are supplied with an Information Extraction system (ANNIE) which has been adapted and evaluated very widely (numerous industrial systems, research systems evaluated in MUC, TREC, ACE, DUC, Pascal, NTCIR, etc.). ANNIE is often used to create RDF or OWL (metadata) for unstructured conten
-https://gate.ac.uk/
 
 ## Scholar Influence Analysis
 Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
@@ -102,6 +82,31 @@ http://cluster.cis.drexel.edu/~cchen/citespace/
 Making it easier to discover datasets
 http://g.co/datasetsearch
 https://www.blog.google/products/search/making-it-easier-discover-datasets/
+
+## Medical NLP Packages
+### Illinois Medical NER
+This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
+http://cogcomp.org/page/software_view/MedNER
+
+### Illinois Medical Coreference
+http://cogcomp.org/page/software_view/MedCoref
+
+### Illinois Medical Drug Abuse Detector
+http://cogcomp.org/page/software_view/MedSHARPS
+
+## Text Annotation
+### Brat :
+a web-based tool for text annotation
+
+http://brat.nlplab.org/introduction.html
+
+### Chinese-Annotator
+Annotator for Chinese Text Corpus 中文标注工具
+https://github.com/deepwel/Chinese-Annotator
+
+## GATE 
+ GATE includes components for diverse language processing tasks, e.g. parsers, morphology, tagging, Information Retrieval tools, Information Extraction components for various languages, and many others. GATE Developer and Embedded are supplied with an Information Extraction system (ANNIE) which has been adapted and evaluated very widely (numerous industrial systems, research systems evaluated in MUC, TREC, ACE, DUC, Pascal, NTCIR, etc.). ANNIE is often used to create RDF or OWL (metadata) for unstructured conten
+https://gate.ac.uk/
 
 ## Platform
 DBLP
