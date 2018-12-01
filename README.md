@@ -69,10 +69,14 @@ https://github.com/lancopku/AAPR
 Automatic PeerReview: Predict the accept/reject decisions in top-tier venues
 https://github.com/allenai/PeerRead
 
-## Paper-Reviewer Assigning:
+## Paper-Reviewer Assignments
 ### The Toronto Paper Matching System (TPMS)
 The goal of this system is to help conference chairs with the task of assigning papers to reviewers.
 http://torontopapermatching.org/webapp/profileBrowser/about_us/
+
+### MyReview (unavailable currently/20181202)
+http://myreview.lri.fr/
+
 
 ## Scholar Influence Analysis
 Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
