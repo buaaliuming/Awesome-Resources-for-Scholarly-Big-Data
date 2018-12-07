@@ -246,6 +246,11 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54054
 http://www.cips-cl.org/anthology
 
 # Venues and Challenge with datasets
+
+## NAACL 2019: Workshop on extracting structured knowledge from scientific publications (ESSP)
+Structured information can be extracted at different levels of granularity. Previous and ongoing work has focused on bibliographic information (segmentation and linking of referenced literature, Wick et al., 2013), keyword extraction and categorization (e.g., what are tasks, materials and processes central to a publication, (Augenstein et al., 2017)), and cataloguing research findings. Scientific discoveries can often be represented as pairwise relationships, e.g., protein-protein (Mallory et al., 2016), drug-drug (Segura-Bedmar et al., 2013), and chemical-disease (Li et al., 2016) interactions, or as more complicated networks such as action graphs describing scientific procedures (e.g., synthesis recipes in material sciences, (Mysore et al., 2017)). Information extracted with such methods can be enriched with time-stamps, and other meta-information, such as indicators of uncertainty or limitations of the discovered facts (Zhou et al., 2015).
+While various workshops have focused separately on several aspects -- extraction of information from scientific articles, building and using knowledge graphs, the analysis of bibliographical information, graph algorithms for text analysis -- the proposed workshop focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.
+
 ## JCDL 2018 : Joint Conference on Digital Libraries
 https://2018.jcdl.org/accepted_papers
 
