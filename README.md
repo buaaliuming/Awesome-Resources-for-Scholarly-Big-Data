@@ -259,6 +259,12 @@ https://2018.jcdl.org/accepted_papers
 Biomedical Natural Language Processing
 http://aclweb.org/anthology/W18-2300
 
+
+##SemEval-2019 NLP for scientific applications
+Task 11: Normalization of Medical Concepts in Clinical Narrative
+Task 12: Toponym Resolution in Scientific Papers
+http://alt.qcri.org/semeval2019/index.php?id=tasks
+
 ## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 
