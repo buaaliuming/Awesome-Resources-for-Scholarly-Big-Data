@@ -271,8 +271,13 @@ https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 ###  Task 8; SecureNLP (Semantic Extraction from CybersecUrity REports using NLP)
 https://competitions.codalab.org/competitions/17262
 
-## SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications
+## SemEval 2017 
+### Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications
 http://alt.qcri.org/semeval2017/task10/
+
+### Task 12 Clinical TempEval 
+Timeline Extraction, Clinical TempEval will focus on domain adaptation: systems will be trained on data from colon cancer patients, but will be asked to make predictions on brain cancer patients.
+http://alt.qcri.org/semeval2017/task12/
 
 ## SemEval 2014 Task 7: Analysis of Clinical Text
 Task A This includes the recognition of mentions of concepts that belong to the UMLS semantic group disorders
