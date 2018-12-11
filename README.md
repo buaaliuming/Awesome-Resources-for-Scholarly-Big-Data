@@ -260,7 +260,7 @@ Biomedical Natural Language Processing
 http://aclweb.org/anthology/W18-2300
 
 
-##SemEval-2019 NLP for scientific applications
+## SemEval-2019 NLP for scientific applications
 Task 11: Normalization of Medical Concepts in Clinical Narrative
 Task 12: Toponym Resolution in Scientific Papers
 http://alt.qcri.org/semeval2019/index.php?id=tasks
