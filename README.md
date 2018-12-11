@@ -265,8 +265,11 @@ http://aclweb.org/anthology/W18-2300
 ### Task 12: Toponym Resolution in Scientific Papers
 http://alt.qcri.org/semeval2019/index.php?id=tasks
 
-## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
+## SemEval-2018 
+### Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 https://competitions.codalab.org/competitions/17422#learn_the_details-overview
+###  Task 8; SecureNLP (Semantic Extraction from CybersecUrity REports using NLP)
+https://competitions.codalab.org/competitions/17262
 
 ## SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications
 http://alt.qcri.org/semeval2017/task10/
