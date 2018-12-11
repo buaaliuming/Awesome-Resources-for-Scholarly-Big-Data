@@ -261,8 +261,8 @@ http://aclweb.org/anthology/W18-2300
 
 
 ## SemEval-2019 NLP for scientific applications
-Task 11: Normalization of Medical Concepts in Clinical Narrative
-Task 12: Toponym Resolution in Scientific Papers
+### Task 11: Normalization of Medical Concepts in Clinical Narrative
+### Task 12: Toponym Resolution in Scientific Papers
 http://alt.qcri.org/semeval2019/index.php?id=tasks
 
 ## SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
@@ -270,6 +270,11 @@ https://competitions.codalab.org/competitions/17422#learn_the_details-overview
 
 ## SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications
 http://alt.qcri.org/semeval2017/task10/
+
+## SemEval 2014 Task 7: Analysis of Clinical Text
+Task A This includes the recognition of mentions of concepts that belong to the UMLS semantic group disorders
+Task B This task involves the mapping of each disorder mention to a unique UMLS CUI.  This is referred to as the task of normalization and the mapping is limited to UMLS CUIs of SNOMED codes.
+http://alt.qcri.org/semeval2014/task7/
 
 ## SemEval 2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles 
 http://semeval2.fbk.eu/semeval2.php?location=tasks&area=Information%20Extraction
