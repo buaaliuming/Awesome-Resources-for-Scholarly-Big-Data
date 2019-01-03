@@ -289,7 +289,7 @@ http://semeval2.fbk.eu/semeval2.php?location=tasks&area=Information%20Extraction
 https://github.com/snkim/AutomaticKeyphraseExtraction
 
 ## Open Academic Data Challenge 2018 （开放学术数据挖掘大赛）
-### Task 同名消歧， Researcher Name Disambiguation
+### Task： Researcher Name Disambiguation
 https://biendata.com/competition/scholar2018/
 
 ## Open Academic Data Challenge 2017 (开放学术精准画像大赛)
