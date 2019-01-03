@@ -1,7 +1,7 @@
 # Resources-for-Scholarly-Big-Data
 
-Pick up scattered pearls and light up the fire for scholarly bigdata
-                                      ———Tools, Resources, datasets and venues for scholarly big data
+## Pick up scattered pearls and light up the fire for scholarly bigdata
+## Tools, Resources, datasets and venues for scholarly big data
 
 Quick Start for the Mining of Scholarly Big Data
 
