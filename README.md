@@ -2,7 +2,7 @@
 <h2 align="center">
 Pick up scattered pearls and light up the fire for scholarly big data
  
-[Tools, Corpus, datasets, Glossary and venues...]
+{Tools, Corpus, datasets, Glossary and venues...}
 </h2>
 
 
@@ -13,7 +13,7 @@ Pick up scattered pearls and light up the fire for scholarly big data
 ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
 
 
-### GROBID :
+### [GROBID](https://github.com/kermitt2/grobid) :
 a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured TEI-encoded documents with a particular focus on technical and scientific publications
 http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
 
