@@ -8,7 +8,8 @@ Pick up scattered pearls and light up the fire for scholarly big data
 
 # Tools
 ## Bibliographical Extraction 
-[**ParsCit**] (https://github.com/knmnyn/ParsCit/blob/master/USAGE): 
+[**ParsCit**](https://github.com/knmnyn/ParsCit/blob/master/USAGE): 
+[PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
 ParsCit is a utility for extracting citations from research papers based on Conditional Random Fields and heuristic regularization.
 https://github.com/knmnyn/ParsCit/blob/master/USAGE
 
