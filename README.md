@@ -2,7 +2,7 @@
 <h2 align="center">
 Pick up scattered pearls and light up the fire for scholarly big data
  
-Quick Start for the Mining of Scholarly Big Data: [Tools, Resources, datasets and venues]
+Quick Start for Scholarly Big Data: [Tools, Corpus, datasets and venues]
 </h2>
 
 
