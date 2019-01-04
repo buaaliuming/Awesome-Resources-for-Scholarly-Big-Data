@@ -116,6 +116,13 @@ http://cogcomp.org/page/software_view/MedCoref
 ### Illinois Medical Drug Abuse Detector
 http://cogcomp.org/page/software_view/MedSHARPS
 
+## Ontology parsing libraries
+### [PyMedTermino](http://pythonhosted.org/PyMedTermino/)
+A Python module for easy access to the main medical terminologies
+
+### [Pronto5](http://pronto.readthedocs.io/en/latest/)
+MeSH ontology
+
 ## Text Annotation
 ### Brat :
 a web-based tool for text annotation
