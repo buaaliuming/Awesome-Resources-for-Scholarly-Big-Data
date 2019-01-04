@@ -1,7 +1,9 @@
-<h1 align="center"> Resources-for-Scholarly-Big-Data </h1>
+<h1 align="center"> Resources for Scholarly Big Data </h1>
 <h2 align="center">
-## Pick up scattered pearls and light up the fire for scholarly bigdata
-## Tools, Resources, datasets and venues for scholarly big data
+Pick up scattered pearls and light up the fire for scholarly bigdata
+ 
+Tools, Resources, datasets and venues for scholarly big data
+ 
 Quick Start for the Mining of Scholarly Big Data
 </h2>
 
