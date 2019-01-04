@@ -2,7 +2,7 @@
 <h2 align="center">
 Pick up scattered pearls and light up the fire for scholarly big data
  
-[Tools, Corpus, datasets，Glossary and venues...]
+[Tools, Corpus, datasets, Glossary and venues...]
 </h2>
 
 
