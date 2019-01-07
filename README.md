@@ -185,6 +185,10 @@ https://drive.google.com/file/d/1ttKdXUjaFi3eS6zeHITuZjsTGrh6M4ij/view
 PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
 https://github.com/allenai/PeerRead
 
+## Deep Paper Gestalt(https://github.com/vt-vl-lab/paper-gestalt)
+a classifier to predict whether a paper should be accepted or rejected based ont the visual appearance of the paper
+
+
 ## Academic Vocabulary Lists
 https://www.academicvocabulary.info/
 
