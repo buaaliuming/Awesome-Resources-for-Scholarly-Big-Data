@@ -1,8 +1,7 @@
-<h1 align="center"> Resources for Scholarly Big Data </h1>
+<h1 align="center">Awesome Resources for Scholarly Big Data </h1>
 <h2 align="center">
 Pick up scattered pearls and light up the fire for scholarly big data
  
-{Tools, Corpus, datasets, Glossary and venues...}
 </h2>
 
 
