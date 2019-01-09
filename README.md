@@ -292,6 +292,29 @@ http://alt.qcri.org/semeval2017/task10/
 Timeline Extraction, Clinical TempEval will focus on domain adaptation: systems will be trained on data from colon cancer patients, but will be asked to make predictions on brain cancer patients.
 http://alt.qcri.org/semeval2017/task12/
 
+
+## SemEval-2016 
+### Task 12 TempEval
+Clinical TempEval 2016 follows in the footsteps of Clinical TempEval 2015 and the i2b2 2012 shared task in bringing timeline extraction to the clinical domain.
+
+## SemEval-2015 
+### Task 6 TempEval
+Clinical TempEval brings the temporal information extraction tasks of previous TempEvals to the clinical domain, using clinical notes and pathology reports for cancer patients from the Mayo Clinic.
+   TS: identifying the spans of time expressions
+   ES: Identifying the spans of event expressions
+   TA: identifying the attributes of time expressions
+   type=DATE, TIME, DURATION, QUANTIFIER, PREPOSTEXP or SET
+   value=TIMEX3 value string as defined by TimeML
+   EA: identifying the attributes of event expressions
+   type=N/A, ASPECTUAL or EVIDENTIAL
+   polarity=POS or NEG
+   degree=N/A, MOST or LITTLE
+   modality=ACTUAL, HEDGED, HYPOTHETICAL or GENERIC
+   DR: identifying the relation between an event and the document creation time
+   docTimeRel=BEFORE, OVERLAP, BEFORE-OVERLAP or AFTER
+   CR: identifying narrative container relations (CONTAINS a.k.a. INCLUDES)
+
+
 ## SemEval 2014 Task 7: Analysis of Clinical Text
 ### Task A This includes the recognition of mentions of concepts that belong to the UMLS semantic group disorders
 ### Task B This task involves the mapping of each disorder mention to a unique UMLS CUI.  This is referred to as the task of normalization and the mapping is limited to UMLS CUIs of SNOMED codes.
