@@ -65,11 +65,11 @@ You can read and write MS Excel, PPT and Word files using Java API.The Apache PO
 Rating articles based on LATEX source files and academic metedata
 
 
-## [PeerRead](https://github.com/allenai/PeerRead)
+### [PeerRead](https://github.com/allenai/PeerRead)
 Automatic PeerReview: Predict the accept/reject decisions in top-tier venues
 
 
-## [Deep Paper Gestalt](https://github.com/vt-vl-lab/paper-gestalt)
+### [Deep Paper Gestalt](https://github.com/vt-vl-lab/paper-gestalt)
 a classifier to predict whether a paper should be accepted or rejected based ont the visual appearance of the paper
 
 ## Paper-Reviewer Assignments
