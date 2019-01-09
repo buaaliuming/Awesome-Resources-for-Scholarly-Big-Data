@@ -44,8 +44,8 @@ URL2： http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 ### [KEA](http://community.nzdl.org/kea/):
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
 
-
-## [Science-Parse](https://github.com/allenai/science-parse):
+Metedata Extraction
+### [Science-Parse](https://github.com/allenai/science-parse):
 Science Parse parses scientific papers (in PDF form) and returns them in structured form.
 It supports these fields: Title, Authors, Abstract, Sections (each with heading and body text), Bibliography, each with Title, Authors
 Venue, Year, Mentions, i.e., places in the paper where bibliography entries are mentioned, In JSON format.
