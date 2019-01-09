@@ -20,38 +20,36 @@ http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
 Content ExtRactor and MINEr
 http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230
 
-### FreeCite: 
+### [FreeCite](http://freecite.library.brown.edu/welcome): 
 FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
-http://freecite.library.brown.edu/welcome
+
 
 ## Figure Extraction from PDF Articles
-### PDFFigures:
+### [PDFFigures](http://pdffigures2.allenai.org/) :
 Extracting Figures from Research Papers,Mining Figures from Research Papers
-http://pdffigures2.allenai.org/
 
-### deepfigures-open:
+
+### [deepfigures-open](https://github.com/allenai/deepfigures-open):
 Figure extraction using deep neural nets
-https://github.com/allenai/deepfigures-open
 
 ## Table Extraction from PDF Articles
-### pdf2table:
+### [pdf2table](https://github.com/tfmorris/pdf2table):
 extraction of table information from PDF-files based on pdf2html
-https://github.com/tfmorris/pdf2table
-http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
+URL2： http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 
-### Zanran:
-https://pdf.zanran.com/extract-table-from-pdf
+### [Zanran](https://pdf.zanran.com/extract-table-from-pdf):
+
 
 ## Keywords or Keyphrase Extraction 
-### KEA:
+### [KEA](http://community.nzdl.org/kea/):
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
-http://community.nzdl.org/kea/
 
-## Science-Parse
+
+## [Science-Parse](https://github.com/allenai/science-parse):
 Science Parse parses scientific papers (in PDF form) and returns them in structured form.
 It supports these fields: Title, Authors, Abstract, Sections (each with heading and body text), Bibliography, each with Title, Authors
 Venue, Year, Mentions, i.e., places in the paper where bibliography entries are mentioned, In JSON format.
-https://github.com/allenai/science-parse
+
 
 ## Plain Text Extraction
 ### PDFBox 
