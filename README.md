@@ -14,11 +14,11 @@ ParsCit is a utility for extracting citations from research papers based on Cond
 
 ### [GROBID](https://github.com/kermitt2/grobid) :
 a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured TEI-encoded documents with a particular focus on technical and scientific publications
-http://cloud.science-miner.com/grobid/  https://github.com/kermitt2/grobid
+http://cloud.science-miner.com/grobid/
 
-### CERMINE:
+### [CERMINE](http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230):
 Content ExtRactor and MINEr
-http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230
+
 
 ### [FreeCite](http://freecite.library.brown.edu/welcome): 
 FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
@@ -52,33 +52,32 @@ Venue, Year, Mentions, i.e., places in the paper where bibliography entries are 
 
 
 ## Plain Text Extraction
-### PDFBox 
+### [PDFBox](https://pdfbox.apache.org/): 
 Extract Unicode text from PDF files.
-https://pdfbox.apache.org/
 
-### Apache POI - the Java API for Microsoft Documents
+
+### [Apache POI](http://poi.apache.org/) - the Java API for Microsoft Documents
 You can read and write MS Excel, PPT and Word files using Java API.The Apache POI Project's mission is to create and maintain Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2).
-http://poi.apache.org/
+
 
 ## Academic Article Evaluation
-### Automatic Academic Paper Rating
+### [Automatic Academic Paper Rating](https://github.com/lancopku/AAPR)
 Rating articles based on LATEX source files and academic metedata
-https://github.com/lancopku/AAPR
 
-## PeerRead
+
+## [PeerRead](https://github.com/allenai/PeerRead)
 Automatic PeerReview: Predict the accept/reject decisions in top-tier venues
-https://github.com/allenai/PeerRead
+
 
 ## [Deep Paper Gestalt](https://github.com/vt-vl-lab/paper-gestalt)
 a classifier to predict whether a paper should be accepted or rejected based ont the visual appearance of the paper
 
 ## Paper-Reviewer Assignments
-### The Toronto Paper Matching System (TPMS)
+### [The Toronto Paper Matching System (TPMS)](http://torontopapermatching.org/webapp/profileBrowser/about_us/)
 The goal of this system is to help conference chairs with the task of assigning papers to reviewers.
-http://torontopapermatching.org/webapp/profileBrowser/about_us/
 
-### MyReview (unavailable currently/20181202)
-http://myreview.lri.fr/
+
+### [MyReview](http://myreview.lri.fr/)(unavailable currently/20181202)
 
 
 ## Scholar Influence Analysis
