@@ -81,39 +81,35 @@ The goal of this system is to help conference chairs with the task of assigning 
 
 
 ## Scholar Influence Analysis
-Computer Science Rankings:This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
-https://github.com/emeryberger/CSrankings
+### [Computer Science Rankings](https://github.com/emeryberger/CSrankings):
+This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
 http://csrankings.org/#/index?all
 
-## Scholar Gender Prediction
+## [Scholar Gender Prediction](https://github.com/xgeric/gender):
 A simple scholar gender predictor.
-https://github.com/xgeric/gender
+
 
 ## Research Trends Visualization
-### Neviewer：
+### [Neviewer](https://link.springer.com/article/10.1007/s11192-014-1347-y)：
 Analyse the evolution of research topics in a discipline based on co-word network analysis
 
-https://link.springer.com/article/10.1007/s11192-014-1347-y
-
-### CiteSpace: 
+### [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/): 
 Visualizing Patterns and Trends in Scientific Literature
-http://cluster.cis.drexel.edu/~cchen/citespace/
 
-##  Dataset Search
+
+##  [Dataset Search](http://g.co/datasetsearch)
 Making it easier to discover datasets
-http://g.co/datasetsearch
+
 https://www.blog.google/products/search/making-it-easier-discover-datasets/
 
 ## Medical NLP Packages
-### Illinois Medical NER
+### [Illinois Medical NER](http://cogcomp.org/page/software_view/MedNER)
 This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
-http://cogcomp.org/page/software_view/MedNER
 
-### Illinois Medical Coreference
-http://cogcomp.org/page/software_view/MedCoref
+### [Illinois Medical Coreference](http://cogcomp.org/page/software_view/MedCoref)
 
-### Illinois Medical Drug Abuse Detector
-http://cogcomp.org/page/software_view/MedSHARPS
+### [Illinois Medical Drug Abuse Detector](http://cogcomp.org/page/software_view/MedSHARPS):
+
 
 ## Ontology parsing libraries
 ### [PyMedTermino](http://pythonhosted.org/PyMedTermino/)
@@ -123,18 +119,16 @@ A Python module for easy access to the main medical terminologies
 MeSH ontology
 
 ## Text Annotation
-### Brat :
+### [Brat](http://brat.nlplab.org/introduction.html):
 a web-based tool for text annotation
 
-http://brat.nlplab.org/introduction.html
-
-### Chinese-Annotator
+### [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator):
 Annotator for Chinese Text Corpus 中文标注工具
-https://github.com/deepwel/Chinese-Annotator
 
-## GATE 
+
+## [GATE](https://gate.ac.uk/)
  GATE includes components for diverse language processing tasks, e.g. parsers, morphology, tagging, Information Retrieval tools, Information Extraction components for various languages, and many others. GATE Developer and Embedded are supplied with an Information Extraction system (ANNIE) which has been adapted and evaluated very widely (numerous industrial systems, research systems evaluated in MUC, TREC, ACE, DUC, Pascal, NTCIR, etc.). ANNIE is often used to create RDF or OWL (metadata) for unstructured conten
-https://gate.ac.uk/
+
 
 ## Platform
 DBLP
