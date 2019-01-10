@@ -28,7 +28,6 @@ FreeCite is an open-source application that parses document citations into field
 ### [PDFFigures](http://pdffigures2.allenai.org/) :
 Extracting Figures from Research Papers,Mining Figures from Research Papers
 
-
 ### [deepfigures-open](https://github.com/allenai/deepfigures-open):
 Figure extraction using deep neural nets
 
@@ -39,6 +38,8 @@ URL2： http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 
 ### [Zanran](https://pdf.zanran.com/extract-table-from-pdf):
 
+## Equation Extraction
+...
 
 ## Keywords or Keyphrase Extraction 
 ### [KEA](http://community.nzdl.org/kea/):
