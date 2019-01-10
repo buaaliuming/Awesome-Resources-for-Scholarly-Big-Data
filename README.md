@@ -144,6 +144,10 @@ https://www.aminer.cn/
 ResearchGate
 https://www.researchgate.net/
 
+SCI-HUB (unavailable currently/20190110)
+http://www.sci-hub.org/
+
+
 CiteUlike
 http://www.citeulike.org/
 
