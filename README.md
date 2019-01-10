@@ -39,7 +39,7 @@ URL2： http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 ### [Zanran](https://pdf.zanran.com/extract-table-from-pdf):
 
 ## Equation or Formula Extraction
-...
+### [Formula-extraction](https://github.com/buaaliuming/Formula-extraction)
 
 ## Keywords or Keyphrase Extraction 
 ### [KEA](http://community.nzdl.org/kea/):
