@@ -38,6 +38,10 @@ URL2： http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 
 ### [Zanran](https://pdf.zanran.com/extract-table-from-pdf):
 
+### [TableBank](https://github.com/doc-analysis/TableBank)
+TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables
+
+
 ## Equation or Formula Extraction
 ### [Formula-extraction](https://github.com/buaaliuming/Formula-extraction)
 
@@ -186,6 +190,8 @@ https://drive.google.com/file/d/1ttKdXUjaFi3eS6zeHITuZjsTGrh6M4ij/view
 PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
 https://github.com/allenai/PeerRead
 
+## [TableBank](https://github.com/doc-analysis/TableBank)
+TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables
 
 ## Academic Vocabulary Lists
 https://www.academicvocabulary.info/
