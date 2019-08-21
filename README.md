@@ -3,7 +3,8 @@
 Pick up scattered pearls and light up the fire for scholarly big data
  
 </h2>
-
+# News
+Nature: [**Hundreds of extreme self-citing scientists revealed in new database**](https://www.nature.com/articles/d41586-019-02479-7)
 
 # Tools
 ## Bibliographical Extraction 
