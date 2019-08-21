@@ -4,7 +4,10 @@ Pick up scattered pearls and light up the fire for scholarly big data
  
 </h2>
 # News
-Nature: [**Hundreds of extreme self-citing scientists revealed in new database**](https://www.nature.com/articles/d41586-019-02479-7)
+
+##Nature:
+[**Hundreds of extreme self-citing scientists revealed in new database**](https://www.nature.com/articles/d41586-019-02479-7)
+Some highly cited academics seem to be heavy self-promoters — but researchers warn against policing self-citation.
 
 # Tools
 ## Bibliographical Extraction 
