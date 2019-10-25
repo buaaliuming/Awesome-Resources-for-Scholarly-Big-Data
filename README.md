@@ -203,6 +203,9 @@ https://www.academicvocabulary.info/
 ## AMiner Dataset
 https://www.aminer.cn/data
 
+## AMiner manually-labeled name disambiguation dataset
+https://www.aminer.cn/billboard/id:5d7884c6530c70858e1bbbd2
+
 ## Microsoft Academic Graph
 The Microsoft Academic Graph is a heterogeneous graph containing scientific publication records, citation relationships between publications, as well as authors, institutions, journal and conference "venues," and fields of study.
 https://wsdmcupchallenge.azurewebsites.net/
