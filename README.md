@@ -149,7 +149,7 @@ https://dblp.uni-trier.de/
 CiteSeer
 http://citeseerx.ist.psu.edu/index
 
-Arminer
+AMiner
 https://www.aminer.cn/
 
 ResearchGate
