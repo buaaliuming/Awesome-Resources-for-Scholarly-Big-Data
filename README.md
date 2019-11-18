@@ -11,8 +11,7 @@ Some highly cited academics seem to be heavy self-promoters — but researchers 
 
 ## The death of top-tier Totems
 [**ICLR**](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652057572&idx=1&sn=8e9885a3d96095da23a67eceb1c5dc07&chksm=f1205b15c657d2036b993100ad841beb0f744b94c07563bd9a0802903f1990f05802c0d9cb1a&scene=0&xtrack=1&key=540c8d6698c698e06bc5312a273087055508e4c2e216c8f63d5b2af402ae24452958ee8a0eb42472ead3dc5c6f4d8b075eadb3e50f5c6d79caedaaa886af7f6607a07a21c24836effeafa68b68c29fba&ascene=1&uin=MjIxMTkyNDk2Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=JZtXew%2BqShLz1dYPDL1QXnpmS%2FTwdV212ecncVX1nap73IaLFqNCG1PrdxyD377V)
-[**CVPR**](https://blog.csdn.net/zandaoguang/article/details/103116271)
-[**Xuetao Cao **](https://www.guancha.cn/politics/2019_11_18_525504.shtml)
+[**CVPR**](https://blog.csdn.net/zandaoguang/article/details/103116271) [**Xuetao Cao **](https://www.guancha.cn/politics/2019_11_18_525504.shtml)
 
 # Tools
 ## Bibliographical Extraction 
