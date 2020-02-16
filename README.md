@@ -164,7 +164,6 @@ https://www.researchgate.net/
 SCI-HUB (unavailable currently/20190110)
 http://www.sci-hub.org/
 
-
 CiteUlike
 http://www.citeulike.org/
 
@@ -176,6 +175,12 @@ https://scholar.google.com.hk/
 
 Arxiv
 https://arxiv.org/
+
+BioRxiv
+https://www.biorxiv.org/
+
+AfricArxiv
+https://info.africarxiv.org/
 
 OpenReview
 https://openreview.net/
