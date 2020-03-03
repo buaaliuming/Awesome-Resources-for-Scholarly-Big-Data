@@ -220,6 +220,10 @@ https://www.academicvocabulary.info/
 ## AMiner Dataset
 https://www.aminer.cn/data
 
+## Ace KG
+AceKG describes 114.30 million academic entities based on a consistent ontology, including 61,704,089 papers, 52,498,428 authors, 50,233 research fields, 19,843 academic institutes, 22,744 journals, 1,278 conferences and 3 special affiliations.
+https://archive.acemap.info/app/AceKG/
+
 ## AMiner manually-labeled name disambiguation dataset
 https://www.aminer.cn/billboard/id:5d7884c6530c70858e1bbbd2
 
