@@ -161,6 +161,9 @@ https://www.aminer.cn/
 ResearchGate
 https://www.researchgate.net/
 
+onAcademic
+https://www.onacademic.com
+
 SCI-HUB (unavailable currently/20190110)
 http://www.sci-hub.org/
 
