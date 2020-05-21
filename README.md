@@ -7,12 +7,8 @@ Pick up scattered pearls and light up the fire for scholarly big data
 # News
 
 ### Nature:[**Hundreds of extreme self-citing scientists revealed in new database**](https://www.nature.com/articles/d41586-019-02479-7)
-Some highly cited academics seem to be heavy self-promoters — but researchers warn against policing self-citation.
-
 ### [**Returnees are more difficult to obtain the title of "Yangtze River Scholar"**](https://academic.oup.com/spp/advance-article-abstract/doi/10.1093/scipol/scz004/5364332?redirectedFrom=fulltext)
-
-## The death of top-tier Totems
-[**ICLR**](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652057572&idx=1&sn=8e9885a3d96095da23a67eceb1c5dc07&chksm=f1205b15c657d2036b993100ad841beb0f744b94c07563bd9a0802903f1990f05802c0d9cb1a&scene=0&xtrack=1&key=540c8d6698c698e06bc5312a273087055508e4c2e216c8f63d5b2af402ae24452958ee8a0eb42472ead3dc5c6f4d8b075eadb3e50f5c6d79caedaaa886af7f6607a07a21c24836effeafa68b68c29fba&ascene=1&uin=MjIxMTkyNDk2Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=JZtXew%2BqShLz1dYPDL1QXnpmS%2FTwdV212ecncVX1nap73IaLFqNCG1PrdxyD377V)
+## The death of top-tier Totems：[**ICLR**](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652057572&idx=1&sn=8e9885a3d96095da23a67eceb1c5dc07&chksm=f1205b15c657d2036b993100ad841beb0f744b94c07563bd9a0802903f1990f05802c0d9cb1a&scene=0&xtrack=1&key=540c8d6698c698e06bc5312a273087055508e4c2e216c8f63d5b2af402ae24452958ee8a0eb42472ead3dc5c6f4d8b075eadb3e50f5c6d79caedaaa886af7f6607a07a21c24836effeafa68b68c29fba&ascene=1&uin=MjIxMTkyNDk2Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=JZtXew%2BqShLz1dYPDL1QXnpmS%2FTwdV212ecncVX1nap73IaLFqNCG1PrdxyD377V)
 [**CVPR**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650774388&idx=1&sn=777b02bed87586bb615be2f4026818e2&chksm=871a5f0ab06dd61c7bb3efd16fe45d81a61f50fa5b891c2e6788927ffc396eaacaee7ba575a3&scene=0&xtrack=1&key=ffd929ece98ce3760403617a053f0f2406251984d39be2a4998dcb79b8656fac97ff11dde75fee29a6575b85c5a174e45c1993fe167c89aa1cef2212c969dbb95f6eb380f9412ac8be0217cc9182ee81&ascene=1&uin=MjIxMTkyNDk2Mg%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=gRlvpYVPPGNTo%2B18X2hqdrkE4SfJfR2Jk3EdLOgJ4OpNE616fvig9oP3tYuXOKie) [**Xuetao Cao **](https://www.guancha.cn/politics/2019_11_18_525504.shtml)
 
 # Tools
@@ -426,6 +422,10 @@ Task 1a: For each citance, identify the spans of text (cited text spans) in the 
 Task 1b: For each cited text span, identify what facet of the paper it belongs to, from a predefined set of facets.
 Task 2: Finally, generate a structured summary of the RP and all of the community discussion of the paper represented in the citances. The length of the summary should not exceed 250 words. Task 2 is tentative.
 https://tac.nist.gov/2014/BiomedSumm/index.html
+
+## Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”
+在论文引用网络中，可能存在多种类型的对抗攻击。例如，预打印论文网站（如arxiv）中的论文因为无需同行评议，所以存在很多低质量的引用。另一种是虚假引用（coercive citation）。2019年，《自然》杂志报道了著名出版商爱思唯尔调查发现数百名研究人员通过操纵同行评议流程，增加自己的论文引用数。这些对引文网络的攻击不仅会降低公众对科技行业的信任，也会损害对学术数据进行定量分析的努力。所以，我们组织这次比赛，希望可以研究如何攻击和防御学术图数据
+https://biendata.com/competition/kddcup_2020/
 
 ## KDD Cup 2016- Whose papers are accepted the most: towards measuring the impact of research institutions
 Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank the importance of institutions based on predicting how many of their papers will be accepted.
