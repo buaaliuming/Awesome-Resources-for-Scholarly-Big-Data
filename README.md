@@ -115,15 +115,6 @@ Making it easier to discover datasets
 
 https://www.blog.google/products/search/making-it-easier-discover-datasets/
 
-## Medical NLP Packages
-### [Illinois Medical NER](http://cogcomp.org/page/software_view/MedNER)
-This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
-
-### [Illinois Medical Coreference](http://cogcomp.org/page/software_view/MedCoref)
-
-### [Illinois Medical Drug Abuse Detector](http://cogcomp.org/page/software_view/MedSHARPS):
-
-
 ## Ontology parsing libraries
 ### [PyMedTermino](http://pythonhosted.org/PyMedTermino/)
 A Python module for easy access to the main medical terminologies
@@ -138,10 +129,16 @@ a web-based tool for text annotation
 ### [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator):
 Annotator for Chinese Text Corpus 中文标注工具
 
-
 ## [GATE](https://gate.ac.uk/)
  GATE includes components for diverse language processing tasks, e.g. parsers, morphology, tagging, Information Retrieval tools, Information Extraction components for various languages, and many others. GATE Developer and Embedded are supplied with an Information Extraction system (ANNIE) which has been adapted and evaluated very widely (numerous industrial systems, research systems evaluated in MUC, TREC, ACE, DUC, Pascal, NTCIR, etc.). ANNIE is often used to create RDF or OWL (metadata) for unstructured conten
 
+## Medical NLP Packages
+### [Illinois Medical NER](http://cogcomp.org/page/software_view/MedNER)
+This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
+
+### [Illinois Medical Coreference](http://cogcomp.org/page/software_view/MedCoref)
+
+### [Illinois Medical Drug Abuse Detector](http://cogcomp.org/page/software_view/MedSHARPS)
 
 ## Platform
 [DBLP](https://dblp.uni-trier.de/)
