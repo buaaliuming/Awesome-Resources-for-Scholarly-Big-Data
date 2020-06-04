@@ -172,19 +172,18 @@ Annotator for Chinese Text Corpus 中文标注工具
 [PubPeer](https://pubpeer.com/)
 
 # Datasets and Corpus
-## S2ORC: The Semantic Scholar Open Research Corpus
+## [S2ORC: The Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc)
  This is the largest publicly-available contextual citation graph. The full text alone is the largest structured academic text corpus to date. The S2ORC dataset is a citation graph of 81.1M academic publications and 380.5M citation edges. Abstracts are available for 73.4M papers. Full text and citation contexts are available for 8.1M papers. Citation contexts are linked to their corresponding paper in the graph.
-https://github.com/allenai/s2orc
 
-## PubMed
+
+## [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)
 PubMed comprises more than 28 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
-https://www.ncbi.nlm.nih.gov/pubmed/
 
-##  SN SciGraph
+
+## [SN SciGraph](https://www.springernature.com/gp/researchers/scigraph)
 Linked Open Data offering which aggregates data sources from Springer Nature and key partners from the scholarly domain. The Linked Open Data platform collates information from across the research landscape, for example funders, research projects, conferences, affiliations and publications.
-https://www.springernature.com/gp/researchers/scigraph
 
-## Automatic Article Commenting: the Task and Dataset 
+## [Automatic Article Commenting: the Task and Dataset](http://ai.tencent.com/upload/PapersUploads/article_commenting.tgz)
 The dataset is available on http://ai.tencent.com/upload/PapersUploads/article_commenting.tgz
 https://arxiv.org/pdf/1805.03668.pdf
 
