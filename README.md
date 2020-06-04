@@ -250,19 +250,15 @@ This dataset includes a database of regulation relationships among genes and cor
 
 
 # Venues and Challenge with datasets
-## KDD Cup 2020 Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”
+## KDD Cup 2020- [Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”](https://biendata.com/competition/kddcup_2020/)
 在论文引用网络中，可能存在多种类型的对抗攻击。例如，预打印论文网站（如arxiv）中的论文因为无需同行评议，所以存在很多低质量的引用。另一种是虚假引用（coercive citation）。2019年，《自然》杂志报道了著名出版商爱思唯尔调查发现数百名研究人员通过操纵同行评议流程，增加自己的论文引用数。这些对引文网络的攻击不仅会降低公众对科技行业的信任，也会损害对学术数据进行定量分析的努力。所以，我们组织这次比赛，希望可以研究如何攻击和防御学术图数据
-https://biendata.com/competition/kddcup_2020/
 
-## KDD Cup 2016- Whose papers are accepted the most: towards measuring the impact of research institutions
+## KDD Cup 2016- [Whose papers are accepted the most: towards measuring the impact of research institutions](https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks)
 Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank the importance of institutions based on predicting how many of their papers will be accepted.
 
-https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks
 
-## KDD Cup 2013- Author-Paper Identification Challenge 
+## KDD Cup 2013- [Author-Paper Identification Challenge](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge)
 Determine whether an author has written a given paper
-
-https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge
 
 ## KDD Cup 2008- Detection of Breast Cancer
 early detection of breast cancer from X-ray images of the breast
