@@ -427,7 +427,7 @@ Task 1b: For each cited text span, identify what facet of the paper it belongs t
 Task 2: Finally, generate a structured summary of the RP and all of the community discussion of the paper represented in the citances. The length of the summary should not exceed 250 words. Task 2 is tentative.
 https://tac.nist.gov/2014/BiomedSumm/index.html
 
-## Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”
+## KDD Cup 2020 Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”
 在论文引用网络中，可能存在多种类型的对抗攻击。例如，预打印论文网站（如arxiv）中的论文因为无需同行评议，所以存在很多低质量的引用。另一种是虚假引用（coercive citation）。2019年，《自然》杂志报道了著名出版商爱思唯尔调查发现数百名研究人员通过操纵同行评议流程，增加自己的论文引用数。这些对引文网络的攻击不仅会降低公众对科技行业的信任，也会损害对学术数据进行定量分析的努力。所以，我们组织这次比赛，希望可以研究如何攻击和防御学术图数据
 https://biendata.com/competition/kddcup_2020/
 
