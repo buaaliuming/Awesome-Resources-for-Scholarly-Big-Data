@@ -139,6 +139,7 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 
 ## Platform
 [DBLP](https://dblp.uni-trier.de/)
+
 [CiteSeer](http://citeseerx.ist.psu.edu/index)
 
 [AMiner](https://www.aminer.cn/)
@@ -233,36 +234,29 @@ http://tangra.cs.yale.edu/newaan/
 nodes represent papers, edges represent citations
 https://snap.stanford.edu/data/#citnets
 
-## Collaboration networks (for community detection):
+## [Collaboration networks (for community detection)](https://snap.stanford.edu/data/#canets)
 ### Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
-https://snap.stanford.edu/data/#canets
 
-## Relational Classification Dataset
+## [Relational Classification Dataset](http://tangra.cs.yale.edu//homepage/downloads/aan_relational/)
 This classification dataset contains 380 scientific publications from AAN manually classified into three research areas ("Machine Translation", "Dependency Parsing" and "Summarization"). 
-http://tangra.cs.yale.edu//homepage/downloads/aan_relational/
 
-## Publication Classification Dataset
+## [Publication Classification Dataset](http://tangra.cs.yale.edu//homepage/downloads/aan_session/)
 This classification dataset contains 383 scientific publications from AAN manually classified into 31 research areas using session information. The session information was compiled using the session information from ACL, COLING and EMNLP.
-http://tangra.cs.yale.edu//homepage/downloads/aan_session/
-
-## DSAP-document semantic similarity evaluation
-https://github.com/buaaliuming/DSAP-document-semantics-for-academic-papers/tree/buaaliuming-annotation
 
 
-## NIPS Conference dataset
-https://cs.nyu.edu/~roweis/data.html
+## [DSAP-document semantic similarity evaluation](https://github.com/buaaliuming/DSAP-document-semantics-for-academic-papers/tree/buaaliuming-annotation)
 
-## ChestX-ray8
+## [NIPS Conference dataset](https://cs.nyu.edu/~roweis/data.html)
+
+## [ChestX-ray8](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
-http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf
 
-## NCI-PID-PubMed Genomics Knowledge Base Completion Dataset
+## [NCI-PID-PubMed Genomics Knowledge Base Completion Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54054)
 This dataset includes a database of regulation relationships among genes and corresponding textual mentions of pairs of genes in PubMed article abstracts.
-https://www.microsoft.com/en-us/download/details.aspx?id=54054
 
-## CCL anthology
+## [CCL anthology](http://www.cips-cl.org/anthology)
 中文计算机语言学会历年论文集
-http://www.cips-cl.org/anthology
+
 
 # Venues and Challenge with datasets
 
