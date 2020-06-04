@@ -144,47 +144,32 @@ Annotator for Chinese Text Corpus 中文标注工具
 
 
 ## Platform
-DBLP (https://dblp.uni-trier.de/)
-https://dblp.uni-trier.de/
+[DBLP](https://dblp.uni-trier.de/)
+[CiteSeer](http://citeseerx.ist.psu.edu/index)
 
-CiteSeer
-http://citeseerx.ist.psu.edu/index
+[AMiner] (https://www.aminer.cn/)
 
-AMiner
-https://www.aminer.cn/
+[ResearchGate](https://www.researchgate.net/)
 
-ResearchGate
-https://www.researchgate.net/
+[onAcademic](https://www.onacademic.com)
 
-onAcademic
-https://www.onacademic.com
+[SCI-HUB |unavailable currently/20190110](http://www.sci-hub.org/)
 
-SCI-HUB (unavailable currently/20190110)
-http://www.sci-hub.org/
+[CiteUlike] (http://www.citeulike.org/)
 
-CiteUlike
-http://www.citeulike.org/
+[SemanticSchoolar] (https://www.semanticscholar.org/)
 
-SemanticSchoolar
-https://www.semanticscholar.org/
+[Google Schoolar](https://scholar.google.com.hk/)
 
-Google Schoolar
-https://scholar.google.com.hk/
+[Arxiv](https://arxiv.org/)
 
-Arxiv
-https://arxiv.org/
+[BioRxiv](https://www.biorxiv.org/)
 
-BioRxiv
-https://www.biorxiv.org/
+[AfricArxiv](https://info.africarxiv.org/)
 
-AfricArxiv
-https://info.africarxiv.org/
+[OpenReview](https://openreview.net/)
 
-OpenReview
-https://openreview.net/
-
-PubPeer
-https://pubpeer.com/
+[PubPeer] (https://pubpeer.com/)
 
 # Datasets and Corpus
 ## S2ORC: The Semantic Scholar Open Research Corpus
