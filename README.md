@@ -260,35 +260,26 @@ Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank th
 ## KDD Cup 2013- [Author-Paper Identification Challenge](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge)
 Determine whether an author has written a given paper
 
-## KDD Cup 2008- Detection of Breast Cancer
+## KDD Cup 2008- [Detection of Breast Cancer](https://www.kdd.org/kdd-cup/view/kdd-cup-2008)
 early detection of breast cancer from X-ray images of the breast
 
-https://www.kdd.org/kdd-cup/view/kdd-cup-2008
-
-## KDD Cup 2006-Pulmonary Embolisms Detection from Image Data
+## KDD Cup 2006- [Pulmonary Embolisms Detection from Image Data](https://www.kdd.org/kdd-cup/view/kdd-cup-2006)
 identifying pulmonary embolisms from three-dimensional computed tomography data
 
-https://www.kdd.org/kdd-cup/view/kdd-cup-2006
-
-## KDD Cup 2004- Particle Physics and Protein Homology Prediction Task
+## KDD Cup 2004- [Particle Physics and Protein Homology Prediction Task](https://www.kdd.org/kdd-cup/view/kdd-cup-2004/Tasks)
 The goal in Particle Physics task is to learn a classification rule that differentiates between two types of particles generated in high energy collider experiments. The goal of Protein Homology Prediction is to predict which proteins are homologous to a native sequence
-https://www.kdd.org/kdd-cup/view/kdd-cup-2004/Tasks
 
-## KDD Cup 2003- Network mining and usage log analysis: Citation Prediction and Download Estimation
+## KDD Cup 2003- [Network mining and usage log analysis: Citation Prediction and Download Estimation](https://www.kdd.org/kdd-cup/view/kdd-cup-2003/Tasks)
 The goal of  Citation Prediction is to predict changes in the number of citations to individual papers over time.The goal of Download Estimation task is to estimate the number of downloads that a paper receives in its first two months in the arXiv.
-https://www.kdd.org/kdd-cup/view/kdd-cup-2003/Tasks
 
-## KDD Cup 2002- BioMed document; plus gene role classification
+## KDD Cup 2002- [BioMed document; plus gene role classification](https://www.biostat.wisc.edu/~craven/kddcup/tasks.html)
 This year the competition included two tasks that involved data mining in molecular biology domains. Task 1: Information Extraction from Biomedical Articles；Task 2: Yeast Gene Regulation Prediction. The first task focused on constructing models that can assist genome annotators by automatically extracting information from scientific articles. The second task focused on learning models that characterize the behavior of individual genes in a hidden experimental setting. Both are described in more detail on the Tasks page.
-https://www.biostat.wisc.edu/~craven/kddcup/tasks.html
 
-## KDD Cup 2001- Mining Biological Databases 
+
+## KDD Cup 2001- [Mining Biological Databases](http://pages.cs.wisc.edu/~dpage/kddcup2001/)
 KDD Cup 2001 was focused on data from genomics and drug design. Sufficient (yet concise) information was provided so that detailed domain knowledge was not a requirement for entry. A total of 136 groups participated to produce a total of 200 submitted predictions over the 3 tasks: 114 for Thrombin, 41 for Function, and 45 for Localization.
 
-http://pages.cs.wisc.edu/~dpage/kddcup2001/
-
-## NAACL 2019: Workshop on extracting structured knowledge from scientific publications (ESSP)
-https://scientific-knowledge.github.io/#
+## NAACL 2019: [Workshop on extracting structured knowledge from scientific publications (ESSP)](https://scientific-knowledge.github.io/#)
 Structured information can be extracted at different levels of granularity. Previous and ongoing work has focused on bibliographic information (segmentation and linking of referenced literature, Wick et al., 2013), keyword extraction and categorization (e.g., what are tasks, materials and processes central to a publication, (Augenstein et al., 2017)), and cataloguing research findings. Scientific discoveries can often be represented as pairwise relationships, e.g., protein-protein (Mallory et al., 2016), drug-drug (Segura-Bedmar et al., 2013), and chemical-disease (Li et al., 2016) interactions, or as more complicated networks such as action graphs describing scientific procedures (e.g., synthesis recipes in material sciences, (Mysore et al., 2017)). Information extracted with such methods can be enriched with time-stamps, and other meta-information, such as indicators of uncertainty or limitations of the discovered facts (Zhou et al., 2015).
 While various workshops have focused separately on several aspects -- extraction of information from scientific articles, building and using knowledge graphs, the analysis of bibliographical information, graph algorithms for text analysis -- the proposed workshop focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.
 
