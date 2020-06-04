@@ -169,6 +169,8 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 ## [S2ORC: The Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc)
  This is the largest publicly-available contextual citation graph. The full text alone is the largest structured academic text corpus to date. The S2ORC dataset is a citation graph of 81.1M academic publications and 380.5M citation edges. Abstracts are available for 73.4M papers. Full text and citation contexts are available for 8.1M papers. Citation contexts are linked to their corresponding paper in the graph.
 
+## [Ace KG](https://archive.acemap.info/app/AceKG/)
+AceKG describes 114.30 million academic entities based on a consistent ontology, including 61,704,089 papers, 52,498,428 authors, 50,233 research fields, 19,843 academic institutes, 22,744 journals, 1,278 conferences and 3 special affiliations.
 
 ## [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)
 PubMed comprises more than 28 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
@@ -181,28 +183,19 @@ Linked Open Data offering which aggregates data sources from Springer Nature and
 The dataset is available on http://ai.tencent.com/upload/PapersUploads/article_commenting.tgz
 https://arxiv.org/pdf/1805.03668.pdf
 
-## ICLR2020-OpenReviewData
-https://github.com/shaohua0116/ICLR2020-OpenReviewData
+## [ICLR2020-OpenReviewData](https://github.com/shaohua0116/ICLR2020-OpenReviewData)
 
-## Automatic Academic Paper Rating (Dataset)
-https://drive.google.com/file/d/1ttKdXUjaFi3eS6zeHITuZjsTGrh6M4ij/view
+## [Automatic Academic Paper Rating (Dataset)](https://drive.google.com/file/d/1ttKdXUjaFi3eS6zeHITuZjsTGrh6M4ij/view)
 
-## PeerRead （code and dataset for predict whether you paper will be accepted by top-tier venues）
+## [PeerRead](https://github.com/allenai/PeerRead) （code and dataset for predict whether you paper will be accepted by top-tier venues）
 PearRead is a dataset of scientific peer reviews available to help researchers study this important artifact. The dataset consists of over 14K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR, as well as over 10K textual peer reviews written by experts for a subset of the papers.
-https://github.com/allenai/PeerRead
 
 ## [TableBank](https://github.com/doc-analysis/TableBank)
 TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables
 
-## Academic Vocabulary Lists
-https://www.academicvocabulary.info/
+## [Academic Vocabulary Lists](https://www.academicvocabulary.info/)
 
-## AMiner Dataset
-https://www.aminer.cn/data
-
-## Ace KG
-AceKG describes 114.30 million academic entities based on a consistent ontology, including 61,704,089 papers, 52,498,428 authors, 50,233 research fields, 19,843 academic institutes, 22,744 journals, 1,278 conferences and 3 special affiliations.
-https://archive.acemap.info/app/AceKG/
+## [AMiner Dataset](https://www.aminer.cn/data)
 
 ## AMiner manually-labeled name disambiguation dataset
 https://www.aminer.cn/billboard/id:5d7884c6530c70858e1bbbd2
