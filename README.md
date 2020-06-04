@@ -95,8 +95,8 @@ The goal of this system is to help conference chairs with the task of assigning 
 This ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science. 
 http://csrankings.org/#/index?all
 
-## [Scholar Gender Prediction](https://github.com/xgeric/gender):
-A simple scholar gender predictor.
+## Scholar Gender Prediction
+[A simple scholar gender predictor.](https://github.com/xgeric/gender):
 
 
 ## Research Trends Visualization
@@ -107,8 +107,8 @@ Analyse the evolution of research topics in a discipline based on co-word networ
 Visualizing Patterns and Trends in Scientific Literature
 
 
-##  [Dataset Search](http://g.co/datasetsearch)
-Making it easier to discover datasets
+##  Dataset Search
+[Making it easier to discover datasets](http://g.co/datasetsearch)
 
 https://www.blog.google/products/search/making-it-easier-discover-datasets/
 
