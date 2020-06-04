@@ -147,7 +147,7 @@ Annotator for Chinese Text Corpus 中文标注工具
 [DBLP](https://dblp.uni-trier.de/)
 [CiteSeer](http://citeseerx.ist.psu.edu/index)
 
-[AMiner] (https://www.aminer.cn/)
+[AMiner](https://www.aminer.cn/)
 
 [ResearchGate](https://www.researchgate.net/)
 
@@ -155,9 +155,9 @@ Annotator for Chinese Text Corpus 中文标注工具
 
 [SCI-HUB |unavailable currently/20190110](http://www.sci-hub.org/)
 
-[CiteUlike] (http://www.citeulike.org/)
+[CiteUlike](http://www.citeulike.org/)
 
-[SemanticSchoolar] (https://www.semanticscholar.org/)
+[SemanticSchoolar](https://www.semanticscholar.org/)
 
 [Google Schoolar](https://scholar.google.com.hk/)
 
@@ -169,7 +169,7 @@ Annotator for Chinese Text Corpus 中文标注工具
 
 [OpenReview](https://openreview.net/)
 
-[PubPeer] (https://pubpeer.com/)
+[PubPeer](https://pubpeer.com/)
 
 # Datasets and Corpus
 ## S2ORC: The Semantic Scholar Open Research Corpus
