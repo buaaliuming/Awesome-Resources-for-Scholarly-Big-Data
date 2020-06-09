@@ -166,6 +166,8 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 
 [PubPeer](https://pubpeer.com/)
 
+[CORE](https://core.ac.uk/)
+
 # Datasets and Corpus
 ### [S2ORC: The Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc)
  This is the largest publicly-available contextual citation graph. The full text alone is the largest structured academic text corpus to date. The S2ORC dataset is a citation graph of 81.1M academic publications and 380.5M citation edges. Abstracts are available for 73.4M papers. Full text and citation contexts are available for 8.1M papers. Citation contexts are linked to their corresponding paper in the graph.
