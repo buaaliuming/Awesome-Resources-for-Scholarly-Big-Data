@@ -58,6 +58,11 @@ Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases
 https://github.com/davidadamojr/TextRank
 
 ## Metedata Extraction
+
+### [pdfmef](https://github.com/SeerLabs/pdfmef):
+Multi-Entity Extraction Framework for Academic Documents (with default extraction tools)
+
+
 ### [Science-Parse](https://github.com/allenai/science-parse):
 Science Parse parses scientific papers (in PDF form) and returns them in structured form.
 It supports these fields: Title, Authors, Abstract, Sections (each with heading and body text), Bibliography, each with Title, Authors
@@ -67,7 +72,6 @@ Venue, Year, Mentions, i.e., places in the paper where bibliography entries are 
 ## Plain Text Extraction
 ### [PDFBox](https://pdfbox.apache.org/): 
 Extract Unicode text from PDF files.
-
 
 ### [Apache POI](http://poi.apache.org/) - the Java API for Microsoft Documents
 You can read and write MS Excel, PPT and Word files using Java API.The Apache POI Project's mission is to create and maintain Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2).
