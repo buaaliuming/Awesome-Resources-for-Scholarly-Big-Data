@@ -36,6 +36,9 @@ Extracting Figures from Research Papers,Mining Figures from Research Papers
 ### [deepfigures-open](https://github.com/allenai/deepfigures-open):
 Figure extraction using deep neural nets
 
+### [figure-extraction-ijdar](figure-extraction-ijdar)
+Source code for methods described in Lu, Xiaonan, et al. "Automated analysis of images in documents for intelligent document search." International Journal on Document Analysis and Recognition (IJDAR) 12.2 (2009): 65-81.
+
 ## Table Extraction from PDF Articles
 ### [pdf2table](https://github.com/tfmorris/pdf2table):
 extraction of table information from PDF-files based on pdf2html
@@ -49,6 +52,9 @@ TableBank is a new image-based table detection and recognition dataset built wit
 
 ## Equation or Formula Extraction
 ### [Formula-extraction](https://github.com/buaaliuming/Formula-extraction)
+
+## Algorithm Extractor
+A Java jar to extract algorithms from PDFs.
 
 ## Keywords or Keyphrase Extraction 
 ### [KEA](http://community.nzdl.org/kea/):
