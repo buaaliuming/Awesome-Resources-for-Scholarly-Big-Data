@@ -375,6 +375,15 @@ SAVE-SD 2018 https://save-sd.github.io/2018/index.html
 https://ornlcda.github.io/SWM2017/program.html
 
 ## International Workshop on Mining Scientific Publications 2012-2018
+
+The entire body of research literature is currently estimated at 100-150 million publications with an annual increase of around 1.5 million. Research literature constitutes the most complete representation of knowledge we have assembled as human species. It enables us to develop cures to diseases, solve difficult engineering problems and answer many of the world’s challenges we are facing today. Systematically reading and analysing the full body of knowledge is now beyond the capacities of any human being. Consequently, it is important to better understand how we can leverage Natural Language Processing/Text Mining techniques to aid knowledge creation and improve the process by which research is being done.
+
+This workshop aims to bring together people from different backgrounds who:
+
+have experience with analysing and mining databases of scientific publications,
+develop systems that enable such analysis and mining of scientific databases (especially those who publication databases) or
+who develop novel technologies that improve the way research is being done.
+
 https://wosp.core.ac.uk/lrec2018/
 
 https://wosp.core.ac.uk/jcdl2017/
