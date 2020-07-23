@@ -141,6 +141,9 @@ A Python module for easy access to the main medical terminologies
 MeSH ontology
 
 ## Text Annotation
+### [Research Articles in Simplified HTML (RASH)](https://github.com/essepuntato/rash)
+Research Articles in Simplified HTML (RASH) Framework includes a markup language defined as a subset of HTML+RDF for writing scientific articles, and related tools to convert it into different formats, to extract data from it, etc.
+
 ### [Brat](http://brat.nlplab.org/introduction.html):
 a web-based tool for text annotation
 
@@ -192,6 +195,9 @@ The PubPeer database contains all articles. Search results return articles with 
 [CORE](https://core.ac.uk/)
 
 # Datasets and Corpus
+### [ Computer Science Ontology (CSO),14K topics and over 159K relationships](http://cso.kmi.open.ac.uk/home)
+ The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science. The Klink-2 algorithm combines semantic technologies, machine learning, and knowledge from external sources to automatically generate a fully populated ontology of research areas. Some relationships were also revised manually by experts during the preparation of two ontology-assisted surveys in the field of Semantic Web and Software Architecture. The main root of CSO is Computer Science, however, the ontology includes also a few secondary roots, such as Linguistics, Geometry, Semantics, and so on.
+
 ### [S2ORC: The Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc)
  This is the largest publicly-available contextual citation graph. The full text alone is the largest structured academic text corpus to date. The S2ORC dataset is a citation graph of 81.1M academic publications and 380.5M citation edges. Abstracts are available for 73.4M papers. Full text and citation contexts are available for 8.1M papers. Citation contexts are linked to their corresponding paper in the graph.
 
@@ -370,8 +376,7 @@ Clinical TempEval brings the temporal information extraction tasks of previous T
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 
 
-## AAAI 2016: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html
-)
+## AAAI 2016: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html)
 
 ## AAAI 2015: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](https://www.aaai.org/Workshops/ws15workshops.php)
 
@@ -395,7 +400,6 @@ develop systems that enable such analysis and mining of scientific databases (es
 who develop novel technologies that improve the way research is being done.
 
 https://wosp.core.ac.uk/lrec2018/
-
 https://wosp.core.ac.uk/jcdl2017/
 https://wosp.core.ac.uk/jcdl2016/
 https://wosp.core.ac.uk/jcdl2015/
