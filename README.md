@@ -174,6 +174,7 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 [Google Schoolar](https://scholar.google.com.hk/)
 
 [Arxiv](https://arxiv.org/)
+arXiv is a free distribution service and an open-access archive for 1,737,208 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.
 
 [BioRxiv](https://www.biorxiv.org/)
 
