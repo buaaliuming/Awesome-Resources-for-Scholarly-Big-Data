@@ -292,9 +292,10 @@ This dataset includes a database of regulation relationships among genes and cor
 ## KDD Cup 2020- [Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”](https://biendata.com/competition/kddcup_2020/)
 在论文引用网络中，可能存在多种类型的对抗攻击。例如，预打印论文网站（如arxiv）中的论文因为无需同行评议，所以存在很多低质量的引用。另一种是虚假引用（coercive citation）。2019年，《自然》杂志报道了著名出版商爱思唯尔调查发现数百名研究人员通过操纵同行评议流程，增加自己的论文引用数。这些对引文网络的攻击不仅会降低公众对科技行业的信任，也会损害对学术数据进行定量分析的努力。所以，我们组织这次比赛，希望可以研究如何攻击和防御学术图数据
 
+## KDD 2018: Workshop [BigScholar 2018](http://thealphalab.org/bigscholar/2018/)
+
 ## KDD Cup 2016- [Whose papers are accepted the most: towards measuring the impact of research institutions](https://www.kdd.org/kdd-cup/view/kdd-cup-2016/Tasks)
 Given any upcoming top conferences such as KDD, SIGIR, and ICML in 2016, rank the importance of institutions based on predicting how many of their papers will be accepted.
-
 
 ## KDD Cup 2013- [Author-Paper Identification Challenge](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge)
 Determine whether an author has written a given paper
@@ -323,8 +324,6 @@ Structured information can be extracted at different levels of granularity. Prev
 While various workshops have focused separately on several aspects -- extraction of information from scientific articles, building and using knowledge graphs, the analysis of bibliographical information, graph algorithms for text analysis -- the proposed workshop focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.
 
 ## SIGIR 2018-[Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries](https://wing.comp.nus.edu.sg/~birndl-sigir2018/)
-
-## KDD 2018: Workshop [BigScholar 2018](http://thealphalab.org/bigscholar/2018/)
 
 ## JCDL 2018 : [Joint Conference on Digital Libraries](https://2018.jcdl.org/accepted_papers)
 
@@ -383,19 +382,19 @@ Clinical TempEval brings the temporal information extraction tasks of previous T
 ### Task 3: Predict the scholar’s future influence
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 
-
 ## AAAI 2016: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html)
 
 ## AAAI 2015: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](https://www.aaai.org/Workshops/ws15workshops.php)
-
 
 ## WWW 2016-2018: SAVE-SD: Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data
 ### [SAVE-SD 2016](https://dl.acm.org/doi/10.1145/2872518.2890600) http://cs.unibo.it/save-sd/2016/index.html
 ### [SAVE-SD 2017](http://oro.open.ac.uk/53280/)
 ### [SAVE-SD 2018](https://save-sd.github.io/2018/index.html)
 
-## WSDM 2017: [Workshop on Scholarly Web Mining (SWM 2017)](https://ornlcda.github.io/SWM2017/program.html)
+## WWW 2016 : [BIG 2016 CUP](http://big2016.org/big-2016-cup/)
+Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
 
+## WSDM 2017: [Workshop on Scholarly Web Mining (SWM 2017)](https://ornlcda.github.io/SWM2017/program.html)
 
 ## International Workshop on Mining Scientific Publications 2012-2018
 
@@ -414,12 +413,8 @@ who develop novel technologies that improve the way research is being done.
 ### [International Workshop on Mining Scientific Publications(IWOMSP) 2013](http://project.core.ac.uk/jcdl2013/)
 ### [International Workshop on Mining Scientific Publications(IWOMSP) 2012](http://project.core.ac.uk/jcdl2012/)
 
-## WWW 2016 : [BIG 2016 CUP](http://big2016.org/big-2016-cup/)
-Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
-
 ## TAC 2018 [Drug-Drug Interaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2018druginteractions/)
 The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in SPLs. A set of 20 gold-standard SPLs annotated with drug-drug interactions will be provided to participants. An additional set of 180 SPLs annotated in slightly different format is available for training. Participants will be evaluated by their performance on a held-out set of 50 labeled SPLs.
-
 
 ## TAC 2017 [Adverse Drug Reaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2017adversereactions/)
 One of the major aspects of drug information are safety concerns in the form of Adverse Drug Reactions (ADRs). In this evaluation, we are focusing on extraction of ADRs from the prescription drug labels.
