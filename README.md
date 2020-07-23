@@ -349,20 +349,18 @@ Clinical TempEval brings the temporal information extraction tasks of previous T
 ### Task B This task involves the mapping of each disorder mention to a unique UMLS CUI.  This is referred to as the task of normalization and the mapping is limited to UMLS CUIs of SNOMED codes.
 
 
-## SemEval 2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles 
-http://semeval2.fbk.eu/semeval2.php?location=tasks&area=Information%20Extraction
-https://github.com/snkim/AutomaticKeyphraseExtraction
+## SemEval 2010 Task 5: [Automatic Keyphrase Extraction from Scientific Articles ](http://semeval2.fbk.eu/semeval2.php?location=tasks&area=Information%20Extraction)
+[Github Resource](https://github.com/snkim/AutomaticKeyphraseExtraction)
 
-## Open Academic Data Challenge 2018 （开放学术数据挖掘大赛）
+## [Open Academic Data Challenge 2018](https://biendata.com/competition/scholar2018/) （开放学术数据挖掘大赛）
 ### Task： Researcher Name Disambiguation
-https://biendata.com/competition/scholar2018/
 
-## Open Academic Data Challenge 2017 (开放学术精准画像大赛)
+## [Open Academic Data Challenge 2017](https://biendata.com/competition/scholar/) (开放学术精准画像大赛)
 ### Task 1: Extract a scholar’s profile information 
 ### Task 2: Predictthe scholar’s research interests labels
 ### Task 3: Predict the scholar’s future influence
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
-https://biendata.com/competition/scholar/
+
 
 ## AAAI 2015,2016: Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop
 http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html
