@@ -377,13 +377,12 @@ Clinical TempEval brings the temporal information extraction tasks of previous T
 ## AAAI 2015: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](https://www.aaai.org/Workshops/ws15workshops.php)
 
 
-## WWW 2016-2018: SAVE-SD: Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data 
-SAVE-SD 2016 http://cs.unibo.it/save-sd/2016/index.html
-SAVE-SD 2017 http://oro.open.ac.uk/53280/
-SAVE-SD 2018 https://save-sd.github.io/2018/index.html
+## WWW 2016-2018: SAVE-SD: Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data
+### [SAVE-SD 2016](https://dl.acm.org/doi/10.1145/2872518.2890600) http://cs.unibo.it/save-sd/2016/index.html
+### [SAVE-SD 2017](http://oro.open.ac.uk/53280/)
+### [SAVE-SD 2018](https://save-sd.github.io/2018/index.html)
 
 ## WSDM 2017: [Workshop on Scholarly Web Mining (SWM 2017)](https://ornlcda.github.io/SWM2017/program.html)
-
 
 
 ## International Workshop on Mining Scientific Publications 2012-2018
