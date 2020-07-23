@@ -316,7 +316,6 @@ While various workshops have focused separately on several aspects -- extraction
 
 ## BioNLP 2018: [Biomedical Natural Language Processing](http://aclweb.org/anthology/W18-2300)
 
-
 ## SemEval-2019: [NLP for scientific applications](http://alt.qcri.org/semeval2019/index.php?id=tasks)
 ### Task 11: Normalization of Medical Concepts in Clinical Narrative
 ### Task 12: Toponym Resolution in Scientific Papers
@@ -332,11 +331,11 @@ While various workshops have focused separately on several aspects -- extraction
 Timeline Extraction, Clinical TempEval will focus on domain adaptation: systems will be trained on data from colon cancer patients, but will be asked to make predictions on brain cancer patients.
 
 ## SemEval-2016 
-### Task 12 TempEval
+### [Task 12 TempEval](http://alt.qcri.org/semeval2016/task12/)
 Clinical TempEval 2016 follows in the footsteps of Clinical TempEval 2015 and the i2b2 2012 shared task in bringing timeline extraction to the clinical domain.
 
 ## SemEval-2015 
-### Task 6 TempEval
+### [Task 6 TempEval](http://alt.qcri.org/semeval2015/task6/)
 Clinical TempEval brings the temporal information extraction tasks of previous TempEvals to the clinical domain, using clinical notes and pathology reports for cancer patients from the Mayo Clinic.
    TS: identifying the spans of time expressions
    ES: Identifying the spans of event expressions
