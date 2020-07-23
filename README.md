@@ -299,39 +299,28 @@ KDD Cup 2001 was focused on data from genomics and drug design. Sufficient (yet 
 Structured information can be extracted at different levels of granularity. Previous and ongoing work has focused on bibliographic information (segmentation and linking of referenced literature, Wick et al., 2013), keyword extraction and categorization (e.g., what are tasks, materials and processes central to a publication, (Augenstein et al., 2017)), and cataloguing research findings. Scientific discoveries can often be represented as pairwise relationships, e.g., protein-protein (Mallory et al., 2016), drug-drug (Segura-Bedmar et al., 2013), and chemical-disease (Li et al., 2016) interactions, or as more complicated networks such as action graphs describing scientific procedures (e.g., synthesis recipes in material sciences, (Mysore et al., 2017)). Information extracted with such methods can be enriched with time-stamps, and other meta-information, such as indicators of uncertainty or limitations of the discovered facts (Zhou et al., 2015).
 While various workshops have focused separately on several aspects -- extraction of information from scientific articles, building and using knowledge graphs, the analysis of bibliographical information, graph algorithms for text analysis -- the proposed workshop focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.
 
-## SIGIR 2018-Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries 
-https://wing.comp.nus.edu.sg/~birndl-sigir2018/
+## SIGIR 2018-[Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries](https://wing.comp.nus.edu.sg/~birndl-sigir2018/)
 
-## BigScholar 2018: KDD 2018 Workshop
-http://thealphalab.org/bigscholar/2018/
+## KDD 2018: Workshop [BigScholar 2018](http://thealphalab.org/bigscholar/2018/)
 
-## JCDL 2018 : Joint Conference on Digital Libraries
-https://2018.jcdl.org/accepted_papers
+## JCDL 2018 : [Joint Conference on Digital Libraries](https://2018.jcdl.org/accepted_papers)
 
-## BioNLP 2018
-Biomedical Natural Language Processing
-http://aclweb.org/anthology/W18-2300
+## BioNLP 2018: [Biomedical Natural Language Processing](http://aclweb.org/anthology/W18-2300)
 
 
-## SemEval-2019 NLP for scientific applications
+## SemEval-2019: [NLP for scientific applications](http://alt.qcri.org/semeval2019/index.php?id=tasks)
 ### Task 11: Normalization of Medical Concepts in Clinical Narrative
 ### Task 12: Toponym Resolution in Scientific Papers
-http://alt.qcri.org/semeval2019/index.php?id=tasks
 
 ## SemEval-2018 
-### Task 7: Semantic Relation Extraction and Classification in Scientific Papers
-https://competitions.codalab.org/competitions/17422#learn_the_details-overview
-###  Task 8; SecureNLP (Semantic Extraction from CybersecUrity REports using NLP)
-https://competitions.codalab.org/competitions/17262
+### Task 7: [Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422#learn_the_details-overview)
+### Task 8: [SecureNLP (Semantic Extraction from CybersecUrity REports using NLP)](https://competitions.codalab.org/competitions/17262)
 
 ## SemEval 2017 
-### Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications
-http://alt.qcri.org/semeval2017/task10/
+### Task 10: [ScienceIE - Extracting Keyphrases and Relations from Scientific Publications](http://alt.qcri.org/semeval2017/task10/)
 
-### Task 12 Clinical TempEval 
+### Task 12: [Clinical TempEval](http://alt.qcri.org/semeval2017/task12/)
 Timeline Extraction, Clinical TempEval will focus on domain adaptation: systems will be trained on data from colon cancer patients, but will be asked to make predictions on brain cancer patients.
-http://alt.qcri.org/semeval2017/task12/
-
 
 ## SemEval-2016 
 ### Task 12 TempEval
@@ -355,10 +344,10 @@ Clinical TempEval brings the temporal information extraction tasks of previous T
    CR: identifying narrative container relations (CONTAINS a.k.a. INCLUDES)
 
 
-## SemEval 2014 Task 7: Analysis of Clinical Text
+## SemEval 2014 Task 7: [Analysis of Clinical Text](http://alt.qcri.org/semeval2014/task7/)
 ### Task A This includes the recognition of mentions of concepts that belong to the UMLS semantic group disorders
 ### Task B This task involves the mapping of each disorder mention to a unique UMLS CUI.  This is referred to as the task of normalization and the mapping is limited to UMLS CUIs of SNOMED codes.
-http://alt.qcri.org/semeval2014/task7/
+
 
 ## SemEval 2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles 
 http://semeval2.fbk.eu/semeval2.php?location=tasks&area=Information%20Extraction
