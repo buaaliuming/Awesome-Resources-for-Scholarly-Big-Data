@@ -57,6 +57,9 @@ TableBank is a new image-based table detection and recognition dataset built wit
 ## Equation or Formula Extraction
 ### [Formula-extraction](https://github.com/buaaliuming/Formula-extraction)
 
+### [ChemxSeer Tagger](https://github.com/SeerLabs/chemxseer-tagger)
+ChemxSeer Tagger provides a chemcial entity extractor that identifies mentions of chemical formula and names in free text.
+
 ## Algorithm Extractor
 A Java jar to extract algorithms from PDFs.
 
