@@ -89,6 +89,10 @@ Extract Unicode text from PDF files.
 ### [Apache POI](http://poi.apache.org/) - the Java API for Microsoft Documents
 You can read and write MS Excel, PPT and Word files using Java API.The Apache POI Project's mission is to create and maintain Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2).
 
+## Scholarly Category Classifier
+[sbdsubjectclassifier](research papers classification)
+classify research papers into their subject areas. By splitting abstracts into words and converting each word into a n-dimensional word embedding, we project the text data into a vector space with time-steps.
+
 ## Academic Article Evaluation
 
 ### [Automatic Academic Paper Rating](https://github.com/lancopku/AAPR)
