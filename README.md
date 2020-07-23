@@ -371,18 +371,20 @@ Clinical TempEval brings the temporal information extraction tasks of previous T
 根据学术数据挖掘系统AMiner.org和Microsoft Academic Graph提供的数据集，提取学者的个人描述信息，分析学者的研究兴趣，以及预测学者的论文引用情况
 
 
-## AAAI 2015,2016: Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop
-http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html
-https://www.aaai.org/Workshops/ws15workshops.php
+## AAAI 2016: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](http://people.cs.ksu.edu/~ccaragea/aaai2016ws/program.html
+)
+
+## AAAI 2015: [Workshop on Scholarly Big Data: AI Perspectives, Challenges, and Ideas Workshop](https://www.aaai.org/Workshops/ws15workshops.php)
+
 
 ## WWW 2016-2018: SAVE-SD: Workshop on Semantics, Analytics and Visualisation: Enhancing Scholarly Data 
 SAVE-SD 2016 http://cs.unibo.it/save-sd/2016/index.html
 SAVE-SD 2017 http://oro.open.ac.uk/53280/
 SAVE-SD 2018 https://save-sd.github.io/2018/index.html
 
-## WSDM 2017: Workshop on Scholarly Web Mining (SWM 2017) 
+## WSDM 2017: [Workshop on Scholarly Web Mining (SWM 2017)](https://ornlcda.github.io/SWM2017/program.html)
 
-https://ornlcda.github.io/SWM2017/program.html
+
 
 ## International Workshop on Mining Scientific Publications 2012-2018
 
@@ -403,30 +405,25 @@ http://project.core.ac.uk/dl2014/
 http://project.core.ac.uk/jcdl2013/
 http://project.core.ac.uk/jcdl2012/
 
-## WWW 2016 : BIG 2016 CUP
+## WWW 2016 : [BIG 2016 CUP](http://big2016.org/big-2016-cup/)
 Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
 
-http://big2016.org/big-2016-cup/
-
-## TAC 2018 Drug-Drug Interaction Extraction from Drug Labels
+## TAC 2018 [Drug-Drug Interaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2018druginteractions/)
 The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in SPLs. A set of 20 gold-standard SPLs annotated with drug-drug interactions will be provided to participants. An additional set of 180 SPLs annotated in slightly different format is available for training. Participants will be evaluated by their performance on a held-out set of 50 labeled SPLs.
 
-https://bionlp.nlm.nih.gov/tac2018druginteractions/
 
-## TAC 2017 Adverse Drug Reaction Extraction from Drug Labels
+## TAC 2017 [Adverse Drug Reaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2017adversereactions/)
 One of the major aspects of drug information are safety concerns in the form of Adverse Drug Reactions (ADRs). In this evaluation, we are focusing on extraction of ADRs from the prescription drug labels.
 Task 1: Extract AdverseReactions and related mentions (Severity, Factor, DrugClass, Negation, Animal). This is similar to many NLP Named Entity Recognition (NER) evaluations.
 Task 2: Identify the relations between AdverseReactions and related mentions (i.e., Negated, Hypothetical, and Effect). This is similar to many NLP relation identification evaluations.
 Task 3: Identify the positive AdverseReaction mention names in the labels. For the purposes of this task, positive will be defined as the caseless strings of all the AdverseReactions that have not been negated and are not related by a Hypothetical relation to a DrugClass or Animal. Note that this means Factors related via a Hypothetical relation are considered positive (e.g., "[unknown risk]Factor of [stroke]AdverseReaction") for the purposes of this task. The result of this task will be a list of unique strings corresponding to the positive ADRs as they were written in the label.
 Task 4: Provide MedDRA PT(s) and LLT(s) for each positive AdverseReaction (occassionally, two or more PTs are necessary to fully describe the reaction). For participants approaching the tasks sequentially, this can be viewed as normalization of the terms extracted in Task 3 to MedDRA LLTs/PTs. Because MedDRA is not publicly available, and contains several versions, a standard version of MedDRA v18.1 will be provided to the participants. Other resources such as the UMLS Terminology Services may be used to aid with the normalization process.
 
-https://bionlp.nlm.nih.gov/tac2017adversereactions/
 
-
-## TAC 2014 Biomedical Summarization Track
+## TAC 2014 [Biomedical Summarization Track](https://tac.nist.gov/2014/BiomedSumm/index.html)
 Given: A set of Citing Papers (CPs) that all contain citations to a Reference Paper (RP). In each CP, the text spans (i.e., citances) have been identified that pertain to a particular citation to the RP.
 Task 1a: For each citance, identify the spans of text (cited text spans) in the RP that most accurately reflect the citance. These are of the granularity of a sentence fragment, a full sentence, or several consecutive sentences (no more than 5).
 Task 1b: For each cited text span, identify what facet of the paper it belongs to, from a predefined set of facets.
 Task 2: Finally, generate a structured summary of the RP and all of the community discussion of the paper represented in the citances. The length of the summary should not exceed 250 words. Task 2 is tentative.
-https://tac.nist.gov/2014/BiomedSumm/index.html
+
 
