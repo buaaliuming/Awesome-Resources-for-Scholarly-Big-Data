@@ -117,7 +117,7 @@ This ranking of top computer science schools is designed to identify institution
 http://csrankings.org/#/index?all
 
 ## Scholar Gender Prediction
-[A simple scholar gender predictor.](https://github.com/xgeric/gender):
+### [A simple scholar gender predictor.](https://github.com/xgeric/gender):
 
 
 ## Research Trends Visualization
@@ -404,14 +404,13 @@ This workshop aims to bring together people from different backgrounds who:
 have experience with analysing and mining databases of scientific publications,
 develop systems that enable such analysis and mining of scientific databases (especially those who publication databases) or
 who develop novel technologies that improve the way research is being done.
-
-https://wosp.core.ac.uk/lrec2018/
-https://wosp.core.ac.uk/jcdl2017/
-https://wosp.core.ac.uk/jcdl2016/
-https://wosp.core.ac.uk/jcdl2015/
-http://project.core.ac.uk/dl2014/
-http://project.core.ac.uk/jcdl2013/
-http://project.core.ac.uk/jcdl2012/
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2018] (https://wosp.core.ac.uk/lrec2018/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2017] (https://wosp.core.ac.uk/jcdl2017/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2016] (https://wosp.core.ac.uk/jcdl2016/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2015] (https://wosp.core.ac.uk/jcdl2015/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2014] (http://project.core.ac.uk/dl2014/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2013] (http://project.core.ac.uk/jcdl2013/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2012] (http://project.core.ac.uk/jcdl2012/)
 
 ## WWW 2016 : [BIG 2016 CUP](http://big2016.org/big-2016-cup/)
 Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
