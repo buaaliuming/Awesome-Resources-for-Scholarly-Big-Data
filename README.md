@@ -81,6 +81,8 @@ Science Parse parses scientific papers (in PDF form) and returns them in structu
 It supports these fields: Title, Authors, Abstract, Sections (each with heading and body text), Bibliography, each with Title, Authors
 Venue, Year, Mentions, i.e., places in the paper where bibliography entries are mentioned, In JSON format.
 
+## [Entity-Matching](https://github.com/SeerLabs/entity-matching)
+a machine learning (ML) based method to match paper entities between CiteSeerX and other digital libraries, including but not limited to the IEEE Xplore (IEEE hereafter), DBLP, Web of Science (WoS hereafter). Like most ML-based methods, data preprocessing takes substantial efforts. The purpose of creating this codebase is to centralize working programs that accomplish different tasks so they can be reused for future people that take over corresponding roles.
 
 ## Plain Text Extraction
 ### [PDFBox](https://pdfbox.apache.org/): 
@@ -404,13 +406,13 @@ This workshop aims to bring together people from different backgrounds who:
 have experience with analysing and mining databases of scientific publications,
 develop systems that enable such analysis and mining of scientific databases (especially those who publication databases) or
 who develop novel technologies that improve the way research is being done.
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2018] (https://wosp.core.ac.uk/lrec2018/)
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2017] (https://wosp.core.ac.uk/jcdl2017/)
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2016] (https://wosp.core.ac.uk/jcdl2016/)
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2015] (https://wosp.core.ac.uk/jcdl2015/)
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2014] (http://project.core.ac.uk/dl2014/)
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2013] (http://project.core.ac.uk/jcdl2013/)
-### [International Workshop on Mining Scientific Publications(IWOMSP) 2012] (http://project.core.ac.uk/jcdl2012/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2018](https://wosp.core.ac.uk/lrec2018/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2017](https://wosp.core.ac.uk/jcdl2017/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2016](https://wosp.core.ac.uk/jcdl2016/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2015](https://wosp.core.ac.uk/jcdl2015/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2014](http://project.core.ac.uk/dl2014/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2013](http://project.core.ac.uk/jcdl2013/)
+### [International Workshop on Mining Scientific Publications(IWOMSP) 2012](http://project.core.ac.uk/jcdl2012/)
 
 ## WWW 2016 : [BIG 2016 CUP](http://big2016.org/big-2016-cup/)
 Microsoft provides the latest Microsoft Academic Search data set and an online graph query interface for BIG 2016 CUP
