@@ -47,6 +47,8 @@ extraction of table information from PDF-files based on pdf2html
 URL2： http://ieg.ifs.tuwien.ac.at/projects/pdf2table/
 
 ### [Zanran](https://pdf.zanran.com/extract-table-from-pdf):
+Many report types – financial reports, analysts reports, scientific reports – exist as PDFs (i.e. unstructured data).  And they often have valuable data in tables. 
+The Zanran ‘Scaffolder’ software helps you get those tables out automatically – into Excel, XML or HTML.
 
 ### [TableBank](https://github.com/doc-analysis/TableBank)
 TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables
@@ -240,7 +242,7 @@ http://tangra.cs.yale.edu/newaan/
 nodes represent papers, edges represent citations
 
 ### [Collaboration networks (for community detection)](https://snap.stanford.edu/data/#canets)
-### Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
+Collaboration network of Arxiv Astro Physic,Collaboration network of Arxiv Condensed Matter,Collaboration network of Arxiv General Relativity,	Collaboration network of Arxiv High Energy Physics,	Collaboration network of Arxiv High Energy Physics Theory
 
 ### [Relational Classification Dataset](http://tangra.cs.yale.edu//homepage/downloads/aan_relational/)
 This classification dataset contains 380 scientific publications from AAN manually classified into three research areas ("Machine Translation", "Dependency Parsing" and "Summarization"). 
