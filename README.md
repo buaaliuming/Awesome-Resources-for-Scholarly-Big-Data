@@ -194,15 +194,21 @@ The PubPeer database contains all articles. Search results return articles with 
 
 [CORE](https://core.ac.uk/)
 
-# Datasets and Corpus
+# Datasets, KG ,and Corpus
 ### [ Computer Science Ontology (CSO),14K topics and over 159K relationships](http://cso.kmi.open.ac.uk/home)
  The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science. The Klink-2 algorithm combines semantic technologies, machine learning, and knowledge from external sources to automatically generate a fully populated ontology of research areas. Some relationships were also revised manually by experts during the preparation of two ontology-assisted surveys in the field of Semantic Web and Software Architecture. The main root of CSO is Computer Science, however, the ontology includes also a few secondary roots, such as Linguistics, Geometry, Semantics, and so on.
 
-### [S2ORC: The Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc)
- This is the largest publicly-available contextual citation graph. The full text alone is the largest structured academic text corpus to date. The S2ORC dataset is a citation graph of 81.1M academic publications and 380.5M citation edges. Abstracts are available for 73.4M papers. Full text and citation contexts are available for 8.1M papers. Citation contexts are linked to their corresponding paper in the graph.
+### [Academia/Industry DynAmics (AIDA) Knowledge Graph](http://aida.kmi.open.ac.uk/)
+Academia/Industry DynAmics (AIDA) Knowledge Graph, which describes 14M publications and 8M patents according to the research topics drawn from the Computer Science Ontology. 4M publications and 5M patents are further characterized according to the type of the author's affiliations (academy, industry, or collaborative) and 66 industrial sectors (e.g., automotive, financial, energy, electronics) organized in a two-level taxonomy.
 
 ### [Ace KG](https://archive.acemap.info/app/AceKG/)
 AceKG describes 114.30 million academic entities based on a consistent ontology, including 61,704,089 papers, 52,498,428 authors, 50,233 research fields, 19,843 academic institutes, 22,744 journals, 1,278 conferences and 3 special affiliations.
+
+### [Artificial Intelligence Knowledge Graph (AI-KG)](http://scholkg.kmi.open.ac.uk/)
+The Artificial Intelligence Knowledge Graph (AI-KG) is a large-scale automatically generated knowledge graph that describes 857,658 research entities. AI-KG includes 14M RDF triples and 1,2M statements extracted from 333K research publications in the field of AI and describes 5 types of entities (e.g., tasks, methods, metrics, materials, others) linked by 27 relations. It was designed to support a large variety of intelligent services for analyzing and making sense of research dynamics, supporting researchers in their daily job, and informing decision of founding bodies and research policy makers.
+
+### [S2ORC: The Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc)
+ This is the largest publicly-available contextual citation graph. The full text alone is the largest structured academic text corpus to date. The S2ORC dataset is a citation graph of 81.1M academic publications and 380.5M citation edges. Abstracts are available for 73.4M papers. Full text and citation contexts are available for 8.1M papers. Citation contexts are linked to their corresponding paper in the graph.
 
 ### [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)
 PubMed comprises more than 28 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
