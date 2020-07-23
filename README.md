@@ -24,7 +24,6 @@ http://cloud.science-miner.com/grobid/
 ### [CERMINE](http://cermine.ceon.pl/cermine/task.html?task=8692584047461514230):
 Content ExtRactor and MINEr
 
-
 ### [FreeCite](http://freecite.library.brown.edu/welcome): 
 FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
 
@@ -129,6 +128,8 @@ Analyse the evolution of research topics in a discipline based on co-word networ
 ### [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/): 
 Visualizing Patterns and Trends in Scientific Literature
 
+## Digital Library
+### This is the [source code for the CiteSeerX academic digital library](https://github.com/SeerLabs/CiteSeerX)
 
 ##  Dataset Search
 [Making it easier to discover datasets](http://g.co/datasetsearch)
