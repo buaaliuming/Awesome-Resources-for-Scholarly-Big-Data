@@ -187,6 +187,7 @@ arXiv is a free distribution service and an open-access archive for 1,737,208 sc
 [OpenReview](https://openreview.net/)
 
 [PubPeer](https://pubpeer.com/)
+The PubPeer database contains all articles. Search results return articles with comments.
 
 [CORE](https://core.ac.uk/)
 
