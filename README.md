@@ -28,7 +28,7 @@ Content ExtRactor and MINEr
 ### [FreeCite](http://freecite.library.brown.edu/welcome): 
 FreeCite is an open-source application that parses document citations into fielded data. You can use it as a web application or a service
 
-### [PerlPipelineExtractor] (https://github.com/SeerLabs/PerlPipelineExtractor)
+### [PerlPipelineExtractor](https://github.com/SeerLabs/PerlPipelineExtractor)
 Legend single threaded extractor written in Perl. External libraries such as SVMheaderparse, ParsCit, and PDFBox are involked.
 
 ## Figure Extraction from PDF Articles
