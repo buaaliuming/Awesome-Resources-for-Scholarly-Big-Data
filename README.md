@@ -164,7 +164,7 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 
 ### [Illinois Medical Drug Abuse Detector](http://cogcomp.org/page/software_view/MedSHARPS)
 
-## Platform
+## Academic Platforms
 [DBLP](https://dblp.uni-trier.de/)  The dblp computer science bibliography provides open bibliographic information on major computer science journals and proceedings. Originally created at the University of Trier in 1993, dblp is now operated and further developed by Schloss Dagstuhl.
 
 [CiteSeer](http://citeseerx.ist.psu.edu/index)
@@ -197,7 +197,7 @@ The PubPeer database contains all articles. Search results return articles with 
 
 [CORE](https://core.ac.uk/)
 
-# Datasets, KG ,and Corpus
+# Datasets, KGs ,and Corpus
 ### [ Computer Science Ontology (CSO),14K topics and over 159K relationships](http://cso.kmi.open.ac.uk/home)
  The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science. The Klink-2 algorithm combines semantic technologies, machine learning, and knowledge from external sources to automatically generate a fully populated ontology of research areas. Some relationships were also revised manually by experts during the preparation of two ontology-assisted surveys in the field of Semantic Web and Software Architecture. The main root of CSO is Computer Science, however, the ontology includes also a few secondary roots, such as Linguistics, Geometry, Semantics, and so on.
 
