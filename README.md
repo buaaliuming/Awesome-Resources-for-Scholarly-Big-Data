@@ -164,7 +164,7 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 
 ### [Illinois Medical Drug Abuse Detector](http://cogcomp.org/page/software_view/MedSHARPS)
 
-## Academic Platforms
+# Academic Platforms
 [DBLP](https://dblp.uni-trier.de/)  The dblp computer science bibliography provides open bibliographic information on major computer science journals and proceedings. Originally created at the University of Trier in 1993, dblp is now operated and further developed by Schloss Dagstuhl.
 
 [CiteSeer](http://citeseerx.ist.psu.edu/index)
