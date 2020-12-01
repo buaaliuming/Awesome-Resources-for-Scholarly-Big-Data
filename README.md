@@ -69,6 +69,9 @@ Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases
 ### [TextRank](https://github.com/davidadamojr/TextRank)
 https://github.com/davidadamojr/TextRank
 
+## Auto Summarization
+### [TLDR](https://scitldr.apps.allenai.org/)
+
 ## Metedata Extraction
 
 ### [pdfmef](https://github.com/SeerLabs/pdfmef):
