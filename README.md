@@ -52,6 +52,8 @@ The Zanran ‘Scaffolder’ software helps you get those tables out automaticall
 ### [TableBank](https://github.com/doc-analysis/TableBank)
 TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables
 
+### [Tabula](https://tabula.technology/)
+Tabula is a tool for liberating data tables locked inside PDF files.
 
 ## Equation or Formula Extraction
 ### [Formula-extraction](https://github.com/buaaliuming/Formula-extraction)
@@ -59,7 +61,7 @@ TableBank is a new image-based table detection and recognition dataset built wit
 ### [ChemxSeer Tagger](https://github.com/SeerLabs/chemxseer-tagger)
 ChemxSeer Tagger provides a chemcial entity extractor that identifies mentions of chemical formula and names in free text.
 
-## Algorithm Extractor
+### [Algorithm Extractor]()
 A Java jar to extract algorithms from PDFs.
 
 ## Formula Formation
