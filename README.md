@@ -62,6 +62,9 @@ ChemxSeer Tagger provides a chemcial entity extractor that identifies mentions o
 ## Algorithm Extractor
 A Java jar to extract algorithms from PDFs.
 
+## Formula Formation
+### [handcalcs](https://github.com/connorferster/handcalcs#basic-demo) 
+handcalcs is a library to render Python calculation code automatically in Latex, but in a manner that mimics how one might format their calculation if it were written with a pencil: write the symbolic formula, followed by numeric substitutions, and then the result.
 ## Keywords or Keyphrase Extraction 
 ### [KEA](http://community.nzdl.org/kea/):
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
