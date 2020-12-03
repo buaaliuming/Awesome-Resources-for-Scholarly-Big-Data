@@ -428,6 +428,9 @@ who develop novel technologies that improve the way research is being done.
 ### [International Workshop on Mining Scientific Publications(IWOMSP) 2013](http://project.core.ac.uk/jcdl2013/)
 ### [International Workshop on Mining Scientific Publications(IWOMSP) 2012](http://project.core.ac.uk/jcdl2012/)
 
+## TAC 2019 [Drug-Drug Interaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2019druginteractions/)
+The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in Structured Product Labeling (SPL) documents. SPL is a document markup standard approved by Health Level Seven (HL7) and adopted by the FDA as a mechanism for exchanging product and facility information about drugs.
+
 ## TAC 2018 [Drug-Drug Interaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2018druginteractions/)
 The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in SPLs. A set of 20 gold-standard SPLs annotated with drug-drug interactions will be provided to participants. An additional set of 180 SPLs annotated in slightly different format is available for training. Participants will be evaluated by their performance on a held-out set of 50 labeled SPLs.
 
