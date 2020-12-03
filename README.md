@@ -344,6 +344,11 @@ While various workshops have focused separately on several aspects -- extraction
 
 ## BioNLP 2018: [Biomedical Natural Language Processing](http://aclweb.org/anthology/W18-2300)
 
+
+## SemEval-2020: [NLP for scientific applications](https://competitions.codalab.org/competitions/20900)
+### Task 6: Extracting term-definition pairs in free text
+
+
 ## SemEval-2019: [NLP for scientific applications](http://alt.qcri.org/semeval2019/index.php?id=tasks)
 ### Task 11: Normalization of Medical Concepts in Clinical Narrative
 ### Task 12: Toponym Resolution in Scientific Papers
