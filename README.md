@@ -428,6 +428,10 @@ who develop novel technologies that improve the way research is being done.
 ### [International Workshop on Mining Scientific Publications(IWOMSP) 2013](http://project.core.ac.uk/jcdl2013/)
 ### [International Workshop on Mining Scientific Publications(IWOMSP) 2012](http://project.core.ac.uk/jcdl2012/)
 
+## TAC 2020 [Epidemic Question Answering (EPIC-QA)](https://bionlp.nlm.nih.gov/epic_qa/#tasks)
+In response to the COVID-19 pandemic, the Epidemic Question Answering (EPIC-QA) track challenges teams to develop systems capable of automatically answering ad-hoc questions about the disease COVID-19, its causal virus SARS-CoV-2, related corona viruses, and the recommended response to the pandemic. While COVID-19 has been an impetus for a large body of emergent scientific research and inquiry, the response to COVID-19 raises questions for consumers. The rapid increase in coronavirus literature and evolving guidelines on community response creates a challenging burden not only for the scientific and medical communities but also the general public to stay up-to-date on the latest developments. Consequently, the goal of the track is to evaluate systems on their ability to provide timely and accurate expert-level answers as expected by the scientific and medical communities as well as answers in consumer-friendly language for the general public.
+
+
 ## TAC 2019 [Drug-Drug Interaction Extraction from Drug Labels](https://bionlp.nlm.nih.gov/tac2019druginteractions/)
 The purpose of this TAC track is to test various natural language processing (NLP) approaches for their information extraction (IE) performance on drug-drug interactions in Structured Product Labeling (SPL) documents. SPL is a document markup standard approved by Health Level Seven (HL7) and adopted by the FDA as a mechanism for exchanging product and facility information about drugs.
 
