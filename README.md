@@ -345,7 +345,13 @@ While various workshops have focused separately on several aspects -- extraction
 ## BioNLP 2018: [Biomedical Natural Language Processing](http://aclweb.org/anthology/W18-2300)
 
 
-## SemEval-2020: [NLP for scientific applications](https://competitions.codalab.org/competitions/20900)
+## SemEval-2021: [Information in scientific & clinical text](https://semeval.github.io/SemEval2021/tasks)
+### Task 8: MeasEval: Counts and Measurements
+### Task 9: Statement Verification and Evidence Finding with Tables
+### Task 10: Source-Free Domain Adaptation for Semantic Processing
+### Task 11: NLPContributionGraph 
+
+## SemEval-2020: [Common Sense Knowledge and Reasoning, Knowledge Extraction](https://competitions.codalab.org/competitions/20900)
 ### Task 6: Extracting term-definition pairs in free text
 
 
