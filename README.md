@@ -303,7 +303,7 @@ This dataset includes a database of regulation relationships among genes and cor
 中文计算机语言学会历年论文集
 
 
-# Venues and Challenge with datasets
+# Venues and Challenge
 ## KDD Cup 2020- [Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”](https://biendata.com/competition/kddcup_2020/)
 在论文引用网络中，可能存在多种类型的对抗攻击。例如，预打印论文网站（如arxiv）中的论文因为无需同行评议，所以存在很多低质量的引用。另一种是虚假引用（coercive citation）。2019年，《自然》杂志报道了著名出版商爱思唯尔调查发现数百名研究人员通过操纵同行评议流程，增加自己的论文引用数。这些对引文网络的攻击不仅会降低公众对科技行业的信任，也会损害对学术数据进行定量分析的努力。所以，我们组织这次比赛，希望可以研究如何攻击和防御学术图数据
 
@@ -347,9 +347,25 @@ While various workshops have focused separately on several aspects -- extraction
 
 ## SemEval-2021: [Information in scientific & clinical text](https://semeval.github.io/SemEval2021/tasks)
 ### Task 8: MeasEval: Counts and Measurements
+Counts and measurements are an important part of scientific discourse. It is relatively easy to find measurements in text, but a bare measurement like "17 mg" is not informative. However, relatively little attention has been given to parsing and extracting these important semantic relations. This is challenging because the way scientists write can be ambiguous and inconsistent, and the location of this information relative to the measurement can vary greatly.
+
+MeasEval is a new entity and semantic relation extraction task focused on finding counts and measurements, attributes of these quantities, and additional information including measured entities, properties, and measurement contexts.
+
 ### Task 9: Statement Verification and Evidence Finding with Tables
+
 ### Task 10: Source-Free Domain Adaptation for Semantic Processing
+
+Data sharing restrictions are common in NLP datasets. For example, Twitter policies do not allow sharing of tweet text, though tweet IDs may be shared. The situtation is even more common in clinical NLP, where patient health information must be protected, and annotations over health text, when released at all, often require the signing of complex data use agreements. The SemEval-2021 Task 10 framework asks participants to develop semantic annotation systems in the face of data sharing constraints. A participant’s goal is to develop an accurate system for a target domain when annotations exist for a related domain but cannot be distributed. Instead of annotated training data, participants are given a model trained on the annotations. Then, given unlabeled target domain data, they are asked to make predictions.
+We apply this framework to two tasks: negation detection and time expression recognition.
+
 ### Task 11: NLPContributionGraph 
+The Open Research Knowledge Graph (ORKG) is posited as a solution to the problem of keeping track of research progress minus the cognitive overload that reading dozens of full papers impose. It aims to build a comprehensive knowledge graph that publishes the research contributions of scholarly publications per paper, where the contributions are interconnected via the graph even across papers.
+With the NLPContributionGraph Shared Task, we have formalized the building of such a scholarly contributions-focused graph over NLP scholarly articles as an automated task.
+The structured contribution annotations are provided as:
+
+Contribution sentences: a set of sentences about the contribution in the article;
+Scientific terms and relations: a set of scientific terms and relational cue phrases extracted from the contribution sentences; and
+Triples: semantic statements that pair scientific terms with a relation, modeled toward subject-predicate-object RDF statements for KG building. The Triples are organized under three (mandatory) or more information units (viz., ResearchProblem, Approach, Model, Code, Dataset, ExperimentalSetup, Hyperparameters, Baselines, Results, Tasks, Experiments, and AblationAnalysis).
 
 ## SemEval-2020: [Common Sense Knowledge and Reasoning, Knowledge Extraction](https://competitions.codalab.org/competitions/20900)
 ### Task 6: Extracting term-definition pairs in free text
