@@ -438,6 +438,21 @@ Microsoft provides the latest Microsoft Academic Search data set and an online g
 
 ## WSDM 2017: [Workshop on Scholarly Web Mining (SWM 2017)](https://ornlcda.github.io/SWM2017/program.html)
 
+## BigScholar 2019 workshop-CIKM 2019: [BigScholar](http://thealphalab.org/bigscholar/2019/)
+
+## BigScholar 2018 workshop-KDD 2018:  [BigScholar](http://thealphalab.org/bigscholar/2018/)
+
+## BigScholar 2017 workshop-WWW 2017:  [BigScholar](http://thealphalab.org/bigscholar/2017/)
+
+## BigScholar 2016 workshop-WWW 2016:  [BigScholar](http://thealphalab.org/bigscholar/2016/)
+
+## BigScholar 2015 workshop-WWW 2015:  [BigScholar](http://thealphalab.org/bigscholar/2015/)
+
+## BigScholar 2014 workshop-WWW 2014:  [BigScholar](http://thealphalab.org/bigscholar/2014/)
+
+
+
+
 ## International Workshop on Mining Scientific Publications 2012-2018
 
 The entire body of research literature is currently estimated at 100-150 million publications with an annual increase of around 1.5 million. Research literature constitutes the most complete representation of knowledge we have assembled as human species. It enables us to develop cures to diseases, solve difficult engineering problems and answer many of the world’s challenges we are facing today. Systematically reading and analysing the full body of knowledge is now beyond the capacities of any human being. Consequently, it is important to better understand how we can leverage Natural Language Processing/Text Mining techniques to aid knowledge creation and improve the process by which research is being done.
