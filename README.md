@@ -120,6 +120,8 @@ The goal of this system is to help conference chairs with the task of assigning 
 
 ### [MyReview](http://myreview.lri.fr/)(unavailable currently/20181202)
 
+### [Publons Reviewer Connect](https://publons.com/benefits/reviewer-connect)
+75% of academic journal editors say that finding reviewers and getting them to accept review invitations is the hardest part of their job. We want to change that to help get peer reviewed research to the world.
 
 ## Scholar Influence Analysis
 ### [Computer Science Rankings](https://github.com/emeryberger/CSrankings):
@@ -151,6 +153,12 @@ A Python module for easy access to the main medical terminologies
 
 ### [Pronto5](http://pronto.readthedocs.io/en/latest/)
 MeSH ontology
+
+## Grammer Checker
+
+### [Writefull]（https://writefull.com/researchers.html）
+Using language models trained on millions of journal articles, Writefull corrects grammar, vocabulary, punctuation, and more - aimed specifically at academic writing.
+
 
 ## Text Annotation
 ### [Research Articles in Simplified HTML (RASH)](https://github.com/essepuntato/rash)
