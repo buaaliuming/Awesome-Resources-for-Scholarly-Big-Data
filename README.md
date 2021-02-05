@@ -78,6 +78,15 @@ https://github.com/davidadamojr/TextRank
 ### [TLDR](https://scitldr.apps.allenai.org/)
 Extreme Summarization of Scientific Documents
 
+## Smart Writing
+### [iCite](https://icite.od.nih.gov/)
+iCite is a tool to access a dashboard of bibliometrics for papers associated with a portfolio.
+
+### [UNSILO](https://unsilo.ai/unsilo-tech-checks/)
+Technical Checking of manuscripts is a core activity in scholarly publishing — around 5.4m manuscripts are submitted to scholarly journals per year, with just over half of them approved for publication. All these manuscripts are subject to different levels of Technical Checks to ensure that they meet journal guidelines, and many undergo multiple rounds of checks. Correct disclosures (such as conflicts of interest or ethics statements), sections within word limits, correct metadata, correct use of citations and references, acceptable language quality, and many more, are all requirements that occupy editorial teams and authors, and increasingly take much needed time away from other work.
+
+### [scite](https://scite.ai/)
+
 ## Metedata Extraction
 
 ### [pdfmef](https://github.com/SeerLabs/pdfmef):
