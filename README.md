@@ -294,6 +294,10 @@ A Digital Archive of Research Papers in Computational Linguistics,The ACL Anthol
 ACL Anthology Network,Here we have collected information regarding all of the papers included in the many ACL venues. From those papers, we have created several networks, including paper citation, author citation, and author collaboration. 
 http://tangra.cs.yale.edu/newaan/
 
+
+### [Computer Vision Foundation](https://openaccess.thecvf.com/menu)
+These research papers (CVPR，ICCV, WACV etc. ) are the Open Access versions, provided by the Computer Vision Foundation. Except for the watermark, they are identical to the accepted versions; the final published version of the proceedings is available on IEEE Xplore.
+
 ## Citation networks (for community detection):
 
 ### [Arxiv High Energy Physics paper citation network and Citation network among US Patents](https://snap.stanford.edu/data/#citnets)
