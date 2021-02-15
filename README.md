@@ -318,6 +318,7 @@ This classification dataset contains 383 scientific publications from AAN manual
 ### [NIPS Conference dataset](https://cs.nyu.edu/~roweis/data.html)
 
 ### [ChestX-ray8](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
+https://www.cc.nih.gov/drd/summers.html
 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
 
 ### [NCI-PID-PubMed Genomics Knowledge Base Completion Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54054)
