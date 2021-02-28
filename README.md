@@ -226,6 +226,9 @@ arXiv is a free distribution service and an open-access archive for 1,737,208 sc
 [PubPeer](https://pubpeer.com/)
 The PubPeer database contains all articles. Search results return articles with comments.
 
+[Retraction Watch](https://retractionwatch.com/)
+Tracking retractions as a window into the scientific process
+
 [CORE](https://core.ac.uk/)
 
 [ACADEMIA](https://www.academia.edu/)
