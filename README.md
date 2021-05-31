@@ -114,6 +114,12 @@ You can read and write MS Excel, PPT and Word files using Java API.The Apache PO
 ### [sbdsubjectclassifier](https://github.com/SeerLabs/sbdsubjectclassifier)
 classify research papers into their subject areas. By splitting abstracts into words and converting each word into a n-dimensional word embedding, we project the text data into a vector space with time-steps.
 
+## Paper Generation
+### [SCI Generation](https://pdos.csail.mit.edu/archive/scigen/)
+
+### [MathPaper Generation](https://thatsmathematics.com/mathgen/)
+
+
 ## Academic Article Evaluation
 
 ### [Automatic Academic Paper Rating](https://github.com/lancopku/AAPR)
