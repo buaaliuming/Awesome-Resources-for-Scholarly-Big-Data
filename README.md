@@ -116,9 +116,10 @@ classify research papers into their subject areas. By splitting abstracts into w
 
 ## Paper Generation
 ### [SCI Generation](https://pdos.csail.mit.edu/archive/scigen/)
+SCIgen is a program that generates random Computer Science research papers, including graphs, figures, and citations. It uses a hand-written context-free grammar to form all elements of the papers. Our aim here is to maximize amusement, rather than coherence.
 
 ### [MathPaper Generation](https://thatsmathematics.com/mathgen/)
-
+Produce your own math paper, full of research-level, professionally formatted nonsense! Just enter your name and those of up to 3 "co-authors".
 
 ## Academic Article Evaluation
 
