@@ -131,6 +131,14 @@ Automatic PeerReview: Predict the accept/reject decisions in top-tier venues
 ### [Deep Paper Gestalt](https://github.com/vt-vl-lab/paper-gestalt)
 a classifier to predict whether a paper should be accepted or rejected based ont the visual appearance of the paper
 
+### [paperswithcode](https://github.com/paperswithcode)
+The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
+We believe this is best done together with the community, supported by NLP and ML. All content on this website is openly licenced under CC-BY-SA (same as Wikipedia) and everyone can contribute - look for the "Edit" buttons!
+
+### [paperswithoutcode](https://www.paperswithoutcode.com)
+
+
+
 ## Paper-Reviewer Assignments
 ### [The Toronto Paper Matching System (TPMS)](http://torontopapermatching.org/webapp/profileBrowser/about_us/)
 The goal of this system is to help conference chairs with the task of assigning papers to reviewers.
