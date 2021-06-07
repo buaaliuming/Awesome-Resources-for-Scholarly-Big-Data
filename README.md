@@ -136,7 +136,7 @@ The mission of Papers with Code is to create a free and open resource with Machi
 We believe this is best done together with the community, supported by NLP and ML. All content on this website is openly licenced under CC-BY-SA (same as Wikipedia) and everyone can contribute - look for the "Edit" buttons!
 
 ### [paperswithoutcode](https://www.paperswithoutcode.com)
-
+Papers Without Code: where unreproducible papers come to live. The goal of this is to save the time and effort of researchers who try to reproduce the results of a paper that is unreproducible. It could either be due to the paper not having enough details or the method straight up not working. In either case, authors will be given the opportunity to respond. The hope is this saves people time and disincentivizes unreproducible papers. 
 
 
 ## Paper-Reviewer Assignments
