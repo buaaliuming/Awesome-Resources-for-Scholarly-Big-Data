@@ -351,6 +351,9 @@ This dataset includes a database of regulation relationships among genes and cor
 
 
 # Venues and Challenge
+## IJCAI Competition 2021- [WhoIsWho – a Large Name Disambiguation Benchmark](https://ijcai-21.org/competitions/)
+‘WhoIsWho’ is the world’s largest manually-labeled name disambiguation dataset (https://www.aminer.cn/whoiswho) and benchmark. It has two subtasks. In the Name Disambiguation from Scratch Subtask, participants will be provided a bunch of papers with authors who have the same names and will be asked to return different clusters of papers by authors. In the Incremental Name Disambiguation subtask, participants will be provided a set of new papers and a group of existed author’s paper lists already in the system, and need to assign the new papers to the existed authors correctly. (https://biendata.xyz/competition/who-is-who2021/)
+
 ## KDD Cup 2020- [Regular Machine Learning Competition Track (ML Track 2) “Adversarial Attacks and Defense on Academic Graph”](https://biendata.com/competition/kddcup_2020/)
 在论文引用网络中，可能存在多种类型的对抗攻击。例如，预打印论文网站（如arxiv）中的论文因为无需同行评议，所以存在很多低质量的引用。另一种是虚假引用（coercive citation）。2019年，《自然》杂志报道了著名出版商爱思唯尔调查发现数百名研究人员通过操纵同行评议流程，增加自己的论文引用数。这些对引文网络的攻击不仅会降低公众对科技行业的信任，也会损害对学术数据进行定量分析的努力。所以，我们组织这次比赛，希望可以研究如何攻击和防御学术图数据
 
@@ -376,7 +379,6 @@ The goal of  Citation Prediction is to predict changes in the number of citation
 
 ## KDD Cup 2002- [BioMed document; plus gene role classification](https://www.biostat.wisc.edu/~craven/kddcup/tasks.html)
 This year the competition included two tasks that involved data mining in molecular biology domains. Task 1: Information Extraction from Biomedical Articles；Task 2: Yeast Gene Regulation Prediction. The first task focused on constructing models that can assist genome annotators by automatically extracting information from scientific articles. The second task focused on learning models that characterize the behavior of individual genes in a hidden experimental setting. Both are described in more detail on the Tasks page.
-
 
 ## KDD Cup 2001- [Mining Biological Databases](http://pages.cs.wisc.edu/~dpage/kddcup2001/)
 KDD Cup 2001 was focused on data from genomics and drug design. Sufficient (yet concise) information was provided so that detailed domain knowledge was not a requirement for entry. A total of 136 groups participated to produce a total of 200 submitted predictions over the 3 tasks: 114 for Thrombin, 41 for Function, and 45 for Localization.
