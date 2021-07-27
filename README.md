@@ -199,7 +199,7 @@ Annotator for Chinese Text Corpus 中文标注工具
 ### [GATE](https://gate.ac.uk/)
  GATE includes components for diverse language processing tasks, e.g. parsers, morphology, tagging, Information Retrieval tools, Information Extraction components for various languages, and many others. GATE Developer and Embedded are supplied with an Information Extraction system (ANNIE) which has been adapted and evaluated very widely (numerous industrial systems, research systems evaluated in MUC, TREC, ACE, DUC, Pascal, NTCIR, etc.). ANNIE is often used to create RDF or OWL (metadata) for unstructured conten
 
-## Medical NLP Packages
+## Biomedical NLP Packages
 ### [Illinois Medical NER](http://cogcomp.org/page/software_view/MedNER)
 This software identifies concepts in medical reports on patients, per the i2b2 shared task: https://www.i2b2.org/NLP/Relations/. 
 
@@ -209,6 +209,18 @@ This software identifies concepts in medical reports on patients, per the i2b2 s
 
 ### [awesome-medical-imaging](https://github.com/fepegar/awesome-medical-imaging)
 Awesome list of software to do research in medical imaging
+
+### [Kaplan Meier plotter](http://kmplot.com/analysis/)
+The Kaplan Meier plotter is capable to assess the effect of 54k genes (mRNA, miRNA, protein) on survival in 21 cancer types including breast (n=7,830), ovarian (n=2,190), lung (n=3,452), and gastric (n=1,440) cancer. Sources for the databases include GEO, EGA, and TCGA. Primary purpose of the tool is a meta-analysis based discovery and validation of survival biomarkers.
+
+
+### [GEPIA 2](http://gepia2.cancer-pku.cn/#index)
+Gene analysis
+
+
+### [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)
+AlphaFold DB provides open access to protein structure predictions for the human proteome and 20 other key organisms to accelerate scientific research.
+AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
 
 # Academic Platforms
 [DBLP](https://dblp.uni-trier.de/)  The dblp computer science bibliography provides open bibliographic information on major computer science journals and proceedings. Originally created at the University of Trier in 1993, dblp is now operated and further developed by Schloss Dagstuhl.
