@@ -67,6 +67,10 @@ A Java jar to extract algorithms from PDFs.
 ## Formula Formation
 ### [handcalcs](https://github.com/connorferster/handcalcs#basic-demo) 
 handcalcs is a library to render Python calculation code automatically in Latex, but in a manner that mimics how one might format their calculation if it were written with a pencil: write the symbolic formula, followed by numeric substitutions, and then the result.
+
+###[mathpix](https://mathpix.com/)
+Export images and PDFs to LaTex, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.
+
 ## Keywords or Keyphrase Extraction 
 ### [KEA](http://community.nzdl.org/kea/):
 Extracting Keywords or keyphrases. KEA is an algorithm for extracting keyphrases from text documents. It can be either used for free indexing or for indexing with a controlled vocabulary. KEA is implemented in Java and is platform independent. 
