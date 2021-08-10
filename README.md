@@ -68,7 +68,7 @@ A Java jar to extract algorithms from PDFs.
 ### [handcalcs](https://github.com/connorferster/handcalcs#basic-demo) 
 handcalcs is a library to render Python calculation code automatically in Latex, but in a manner that mimics how one might format their calculation if it were written with a pencil: write the symbolic formula, followed by numeric substitutions, and then the result.
 
-###[mathpix](https://mathpix.com/)
+### [mathpix](https://mathpix.com/)
 Export images and PDFs to LaTex, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.
 
 ## Keywords or Keyphrase Extraction 
