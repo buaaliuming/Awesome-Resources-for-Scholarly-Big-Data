@@ -370,6 +370,12 @@ This dataset includes a database of regulation relationships among genes and cor
 
 
 # Venues and Challenge
+## AAAI 2022 [Scientific Document Understanding](https://aaai.org/Conferences/AAAI-22/ws22workshops/#ws34)
+Scientific documents such as research papers, patents, books, or technical reports are one of the most valuable resources of human knowledge. At the AAAI-22 Workshop on Scientific Document Understanding (SDU@AAAI-22), we aim to gather insights into the recent advances and remaining challenges on scientific document understanding. Researchers from related fields are invited to submit papers on the recent advances, resources, tools, and upcoming challenges for SDU. In addition to that, we propose a shared task on one of the challenging SDU tasks, i.e., acronym extraction and disambiguation in multiple languages text.
+
+## SIGIR 2021- [PatentSemTech](http://ifs.tuwien.ac.at/patentsemtech/index.html#)
+PatentSemTech aims to establish a long-term collaboration and a two-way communication channel between the IP industry and academia from relevant fields such as natural-language processing (NLP), text and data mining (TDM) and semantic technologies (ST) in order to explore and transfer new knowledge, methods and technologies for the benefit of industrial applications as well as support research in applied sciences for the IP and neighbouring domains.
+
 ## IJCAI Competition 2021- [WhoIsWho – a Large Name Disambiguation Benchmark](https://ijcai-21.org/competitions/)
 ‘WhoIsWho’ is the world’s largest manually-labeled name disambiguation dataset (https://www.aminer.cn/whoiswho) and benchmark. It has two subtasks. In the Name Disambiguation from Scratch Subtask, participants will be provided a bunch of papers with authors who have the same names and will be asked to return different clusters of papers by authors. In the Incremental Name Disambiguation subtask, participants will be provided a set of new papers and a group of existed author’s paper lists already in the system, and need to assign the new papers to the existed authors correctly. (https://biendata.xyz/competition/who-is-who2021/)
 
