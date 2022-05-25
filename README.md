@@ -227,6 +227,9 @@ AlphaFold DB provides open access to protein structure predictions for the human
 AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
 
 # Academic Platforms
+[peerxiv](https://peerxiv.web.app/dashboard/papers)
+一种全新的学术论文评审
+
 [DBLP](https://dblp.uni-trier.de/)  The dblp computer science bibliography provides open bibliographic information on major computer science journals and proceedings. Originally created at the University of Trier in 1993, dblp is now operated and further developed by Schloss Dagstuhl.
 
 [CiteSeer](http://citeseerx.ist.psu.edu/index)
